@@ -73,7 +73,7 @@
 	},
 	
 	 "com.kitinsta.photosaverforinstagkit":{
-		"showAdsOnStart" : true,
+		"showAdsOnStart" : false,
 		"showAdsOnClickHistoryButton" : true,
 		"showAdsHistoryOnBack" : false,
 		"downloadIntervalAds" : 30,
