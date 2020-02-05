@@ -76,7 +76,7 @@
 		"showAdsOnStart" : false,
 		"showAdsOnClickHistoryButton" : true,
 		"showAdsHistoryOnBack" : false,
-		"downloadIntervalAds" : 3,
+		"downloadIntervalAds" : 30,
 		"showDialog" : false,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
