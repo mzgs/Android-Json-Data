@@ -72,22 +72,15 @@
 		
 	},
 	
-	 	"com.kitinsta.photosaverforinstagkit":{
-		"showAds" : "yes",
-		"showAdsOnBack" : "no",
-		"download_interval_ads" : 2,
-		"search_interval_ads" : 2,
-		"delayAds" : 60000,
-		"delayAdsRandom" : 40000,
-		"free_mode_enabled" : "no",
-		"just_search_view" : false,
-		"show_dialog" : "no",
-		"dialog_title" : "NO ADS! Mp3 Music Downloader PRO",
-		"dialog_message" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
-		"app_package" : "com.mbkil.muscdownloadpro",
-		"working_countries" : "TR,PH,ID,ZA,MY,KW,QA,TN,TZ,PK"
-		
-		
+	 "com.kitinsta.photosaverforinstagkit":{
+		"showAdsOnStart" : true,
+		"showAdsOnClickHistory" : true,
+		"showAdsHistoryOnBack" : true,
+		"downloadIntervalAds" : 2,
+		"showDialog" : false,
+		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
+		"dialogMessage" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
+		"appPackageToDownload" : "com.mbkil.muscdownloadpro",
 	}
 	
 	
