@@ -77,10 +77,10 @@
 		"showAdsOnClickHistoryButton" : true,
 		"showAdsHistoryOnBack" : true,
 		"downloadIntervalAds" : 2,
-		"showDialog" : false,
+		"showDialog" : true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
-		"appPackageToDownload" : "com.mbkil.muscdownloadpro"
+		"appPackageToDownload" : "com.mbkit.muscdownloadpro"
 	}
 	
 	
