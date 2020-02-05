@@ -74,7 +74,7 @@
 	
 	 "com.kitinsta.photosaverforinstagkit":{
 		"showAdsOnStart" : true,
-		"showAdsOnClickHistory" : true,
+		"showAdsOnClickHistoryButton" : true,
 		"showAdsHistoryOnBack" : true,
 		"downloadIntervalAds" : 2,
 		"showDialog" : false,
