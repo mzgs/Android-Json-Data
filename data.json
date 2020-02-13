@@ -1,59 +1,6 @@
 {
 	
-	"com.mentmjds.yenimusic":{
-		"showAds" : "yes",
-		"showAdsOnBack" : "yes",
-		"download_interval_ads" : 2,
-		"search_interval_ads" : 2,
-		"delayAds" : 60000,
-		"delayAdsRandom" : 40000,
-		"free_mode_enabled" : "no",
-		"just_search_view" : "no",
-		"show_dialog" : "no",
-		"dialog_title" : "NEW! Mp3 Music Downloader PRO - NO ADS",
-		"dialog_message" : "Download Buy new mp3 music downloader No ADS",
-		"app_package" : "com.mbmsc.muscdownloadpro",
-		"working_countries" : "TR,PH,ID,ZA,MY,KW,QA,TN,TZ,PK"
-		
-		
-	},
 	
-	"com.mentkeb.kebmusic":{
-		"showAds" : "yes",
-		"showAdsOnBack" : "yes",
-		"download_interval_ads" : 2,
-		"search_interval_ads" : 2,
-		"delayAds" : 60000,
-		"delayAdsRandom" : 40000,
-		"free_mode_enabled" : "no",
-		"just_search_view" : "no",
-		"show_dialog" : "no",
-		"dialog_title" : "NO ADS! Mp3 Music Downloader PRO",
-		"dialog_message" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
-		"app_package" : "com.mbmsc.muscdownloadpro",
-		"working_countries" : "TR,PH,ID,ZA,MY,KW,QA,TN,TZ,PK"
-		
-		
-	},
-	
-		"com.mentkec.kecmusic":{
-		"showAds" : "yes",
-		"showAdsOnBack" : "no",
-		"download_interval_ads" : 2,
-		"search_interval_ads" : 2,
-		"delayAds" : 60000,
-		"delayAdsRandom" : 40000,
-		"free_mode_enabled" : "no",
-		"just_search_view" : "no",
-		"show_dialog" : "no",
-		"dialog_title" : "NO ADS! Mp3 Music Downloader PRO",
-		"dialog_message" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
-		"app_package" : "com.mbkil.muscdownloadpro",
-		"working_countries" : "TR,PH,ID,ZA,MY,KW,QA,TN,TZ,PK"
-		
-		
-	},
-  
   	"com.mbkit.muscdownloadpro":{
 		"showAds" : "yes",
 		"showAdsOnBack" : "no",
@@ -62,7 +9,7 @@
 		"delayAds" : 60000,
 		"delayAdsRandom" : 40000,
 		"free_mode_enabled" : "no",
-		"just_search_view" : false,
+		"just_search_view" : true,
 		"show_dialog" : "no",
 		"dialog_title" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialog_message" : "Download Buy new mp3 music downloader No ADS and download unlimited. Just 2.99",
