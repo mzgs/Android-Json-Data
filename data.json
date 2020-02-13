@@ -34,9 +34,9 @@
 		"showAdsOnStart" : true,
 		"showAdsOnMainStart" : true,
 		"showAdsOnBack" : false,
-		"downloadIntervalAds" : 3,
+		"downloadIntervalAds" : 2,
 		"showDialog" : false,
-		"isWorking": false,
+		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "",
 		"appPackageToDownload" : ""
