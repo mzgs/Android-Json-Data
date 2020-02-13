@@ -31,10 +31,10 @@
 	},
 	
 	 "com.mlin.kotlinmp3downloader":{
-		"showAdsOnStart" : true,
-		"showAdsOnMainStart" : true,
+		"showAdsOnStart" : false,
+		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : false,
-		"downloadIntervalAds" : 2,
+		"downloadIntervalAds" : 20,
 		"showDialog" : false,
 		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
