@@ -31,6 +31,17 @@
 	},
 	
 	 "com.mlin.kotlinmp3downloader":{
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : true,
+		"showAdsOnBack" : false,
+		"downloadIntervalAds" : 20,
+		"showDialog" : false,
+		"isWorking": true,
+		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
+		"dialogMessage" : "",
+		"appPackageToDownload" : ""
+	},
+		 "com.mlin2.ktlmp3mscdownload":{
 		"showAdsOnStart" : false,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : false,
@@ -41,6 +52,7 @@
 		"dialogMessage" : "",
 		"appPackageToDownload" : ""
 	}
+	
 	
 	
 	
