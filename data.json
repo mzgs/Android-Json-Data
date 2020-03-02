@@ -50,7 +50,8 @@
 		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "",
-		"appPackageToDownload" : ""
+		"appPackageToDownload" : "",
+		"delayAdsRandom":40000
 	}
 	
 	
