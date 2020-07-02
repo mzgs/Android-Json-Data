@@ -52,6 +52,18 @@
 		"dialogMessage" : "",
 		"appPackageToDownload" : "",
 		"delayAdsRandom":40000
+	},
+		 "com.mappse.myt.mp3.music":{
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : false,
+		"showAdsOnBack" : false,
+		"downloadIntervalAds" : 2,
+		"showDialog" : false,
+		"isWorking": true,
+		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
+		"dialogMessage" : "",
+		"appPackageToDownload" : "",
+		"delayAdsRandom":40000
 	}
 	
 	
