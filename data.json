@@ -64,7 +64,7 @@
 		"dialogMessage" : "",
 		"appPackageToDownload" : "",
 		"delayAdsRandom":40000,
-		"delay_working" : false
+		"delay_working" : true
 	}
 	
 	
