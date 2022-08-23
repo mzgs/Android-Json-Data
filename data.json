@@ -3,7 +3,7 @@
 	"com.helikanongame.test":{
 	     "showAds" : true,
 	     "showInterstitialOnStart" : false,
-	     "bannerPosition":"top",
+	     "bannerPosition":"bottom",
 	     "adOrder": [ "admob",  "applovin" ]
 			
 	
