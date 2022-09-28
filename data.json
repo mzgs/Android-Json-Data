@@ -62,7 +62,7 @@
 		"delayAdsRandom":40000
 	},
 		 "com.mappse.myt.mp3.music":{
-		"showAdsOnStart" : true,
+		"showAdsOnStart" : false,
 		"showAdsOnMainStart" : true,
 		"showAdsOnBack" : false,
 		"downloadIntervalAds" : 2,
