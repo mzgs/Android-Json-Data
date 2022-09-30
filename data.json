@@ -68,11 +68,11 @@
 		"showAdsOnBack" : true,
 		"downloadIntervalAds" : 2,
 		"searchIntervalAds" : 2,
-		"showDialog" : false,
+		"showDialog" : true,
 		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
-		"dialogMessage" : "",
-		"appPackageToDownload" : "",
+		"dialogMessage" : "download now",
+		"dialogAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
 		"delayAdsRandom":40000,
 		"delay_working" : false
 	}
