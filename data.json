@@ -68,11 +68,13 @@
 		"showAdsOnBack" : true,
 		"downloadIntervalAds" : 2,
 		"searchIntervalAds" : 2,
-		"showDialog" : true,
+		"showDialogPlay" : true,
+		"showDialogAmazon" : true,
 		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "download now",
-		"dialogAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
+		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
+		"playAppPackageName":"com.mentapp.monstertruck",	 
 		"delayAdsRandom":40000,
 		"delay_working" : false
 	}
