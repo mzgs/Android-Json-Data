@@ -62,7 +62,7 @@
 		"delayAdsRandom":40000
 	},
 		 "com.mappse.myt.mp3.music":{
-		"showAds": false,
+		"showAds": true,
 		"showAdsOnStart" : true,
 		"showAdsOnMainStart" : true,
 		"showAdsOnBack" : true,
@@ -70,7 +70,7 @@
 		"searchIntervalAds" : 4,
 		"showDialogPlay" : false,
 		"showDialogAmazon" : false,
-		"isWorking": false,
+		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
 		"dialogMessage" : "download now",
 		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
