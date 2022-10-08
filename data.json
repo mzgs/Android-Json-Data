@@ -77,7 +77,26 @@
 		"playAppPackageName":"com.mentapp.monstertruck",	 
 		"delayAdsRandom":40000,
 		"delay_working" : false
+	},
+	
+		"com.sanki.crckscrn":{
+		"showAds": false,
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : true,
+		"showAdsOnBack" : true,
+		"downloadIntervalAds" : 2,
+		"searchIntervalAds" : 4,
+		"showDialogPlay" : false,
+		"showDialogAmazon" : false,
+		"isWorking": true,
+		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
+		"dialogMessage" : "download now",
+		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
+		"playAppPackageName":"com.mentapp.monstertruck",	 
+		"delayAdsRandom":40000,
+		"delay_working" : false
 	}
+	
 	
 	
 	
