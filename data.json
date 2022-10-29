@@ -67,7 +67,7 @@
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : true,
 		"downloadIntervalAds" : 2,
-		"searchIntervalAds" : 3,
+		"searchIntervalAds" : 2,
 		"showDialogPlay" : false,
 		"showDialogAmazon" : false,
 		"isWorking": true,
