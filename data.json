@@ -69,6 +69,7 @@
 		"downloadIntervalAds" : 2,
 		"searchIntervalAds" : 2,
 		"showDialogPlay" : false,
+		"showDialog" : false,
 		"showDialogAmazon" : false,
 		"isWorking": true,
 		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
