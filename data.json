@@ -79,6 +79,24 @@
 		"delayAdsRandom":40000,
 		"delay_working" : false
 	},
+	 "com.fastcut.videoeditor":{
+		"showAds": true,
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : false,
+		"showAdsOnBack" : true,
+		"downloadIntervalAds" : 2,
+		"searchIntervalAds" : 2,
+		
+		"showDialog" : false,
+		"showDialogAmazon" : false,
+		"isWorking": true,
+		"dialogTitle" : "",
+		"dialogMessage" : "download now",
+	
+		"playAppPackageName":"",	 
+		"delayAdsRandom":40000,
+		"delay_working" : false
+	},
 	
 		"com.sanki.crckscrn":{
 		"showAds": false,
