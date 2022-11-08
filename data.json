@@ -88,6 +88,7 @@
 		 "SHOW_ADS_EDITVIDEO" : false,
 		 "SHOW_ADS_TRIMVIDEO" : false,
 		 "SHOW_ADS_JOINVIDEO" : false,
+		 "SHOW_ADS_SHAREEXPORTEDVIDEO" : false,
 		 "SHOW_ADS_RATE" : false,
 		 "SHOW_ADS_SHARE" : false,
 		 "SHOW_ADS_MYSTUDIO" : false,
