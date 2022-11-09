@@ -84,6 +84,7 @@
 		"showAdsOnStart" : true,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : true,
+		  "SHOW_OPEN_ADS" : false,
 		 "SHOW_ADS_SLIDESHOW" : false,
 		 "SHOW_ADS_EDITVIDEO" : false,
 		 "SHOW_ADS_TRIMVIDEO" : false,
