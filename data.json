@@ -81,7 +81,7 @@
 	},
 	 "com.fastcut.videoeditor":{
 		"showAds": true,
-		"showAdsOnStart" : true,
+		"showAdsOnStart" : false,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : true,
 		  "SHOW_OPEN_ADS" : false,
@@ -89,7 +89,7 @@
 		 "SHOW_ADS_EDITVIDEO" : false,
 		 "SHOW_ADS_TRIMVIDEO" : false,
 		 "SHOW_ADS_JOINVIDEO" : false,
-		 "SHOW_ADS_SHAREEXPORTEDVIDEO" : false,
+		 "SHOW_ADS_SHAREEXPORTEDVIDEO" : true,
 		 "SHOW_ADS_RATE" : false,
 		 "SHOW_ADS_SHARE" : false,
 		 "SHOW_ADS_MYSTUDIO" : false,
