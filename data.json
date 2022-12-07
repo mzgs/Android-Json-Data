@@ -81,7 +81,7 @@
 	},
 	 "com.fastcut.videoeditor":{
 		"showAds": true,
-		"showAdsOnStart" : true,
+		"showAdsOnStart" : false,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : true,
 		  "SHOW_OPEN_ADS" : true,
