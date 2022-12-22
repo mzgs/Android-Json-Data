@@ -99,7 +99,7 @@
 		"DIALOG_TITLE" : "NO ADS! Mp3 Music Downloader PRO",
 		"DIALOG_MESSAGE" : "download now",
 		"PLAY_APP_PACKAGE_NAME":"",	 
-		 "IS_WORKING":false,
+		 "IS_WORKING":false
 		 
 	},
 	 "com.fastcut.videoeditor":{
