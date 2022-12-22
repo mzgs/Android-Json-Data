@@ -92,7 +92,7 @@
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
 		"DOWNLOAD_SERVER" : 1,
-		"WORK_AFTER_1_DAY" : true,
+		"WORK_AFTER_1_DAY" : false,
 		"showDialogPlay" : false,
 		"showDialog" : false,
 		"showDialogAmazon" : false,
