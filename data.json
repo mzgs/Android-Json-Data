@@ -91,6 +91,8 @@
 		"searchIntervalAds" : 2,
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
+		 "PAUSE_INTERVAL_ADS" : 3,
+		 "TAB_INTERVAL_ADS" : 6,
 		"DOWNLOAD_SERVER" : 1,
 		"WORK_AFTER_1_DAY" : false,
 		"showDialogPlay" : false,
