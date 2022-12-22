@@ -81,6 +81,27 @@
 		"delayAdsRandom":40000,
 		"delay_working" : false
 	},
+	
+	 "com.mappse.myt.mp3.music.download":{
+		"showAds": true,
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : false,
+		"showAdsOnBack" : true,
+		"downloadIntervalAds" : 2,
+		"searchIntervalAds" : 2,
+		"PLAY_INTERVAL_ADS" : 4,
+		"ROW_INTERVAL_ADS" : 3,
+		"showDialogPlay" : false,
+		"showDialog" : false,
+		"showDialogAmazon" : false,
+		"isWorking": true,
+		"dialogTitle" : "NO ADS! Mp3 Music Downloader PRO",
+		"dialogMessage" : "download now",
+		"amazonAppUrl" : "",
+		"playAppPackageName":"",	 
+		"delayAdsRandom":40000,
+		"delay_working" : false
+	},
 	 "com.fastcut.videoeditor":{
 		"showAds": true,
 		"showAdsOnStart" : true,
