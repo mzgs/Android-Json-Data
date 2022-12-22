@@ -103,6 +103,7 @@
 		"amazonAppUrl" : "",
 		"playAppPackageName":"",	 
 		"delayAdsRandom":40000,
+		 "IS_WORKING":false,
 		"delay_working" : false
 	},
 	 "com.fastcut.videoeditor":{
