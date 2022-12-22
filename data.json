@@ -98,7 +98,7 @@
 		"SHOW_DIALOG" : false,
 		"DIALOG_TITLE" : "NO ADS! Mp3 Music Downloader PRO",
 		"DIALOG_MESSAGE" : "download now",
-		"PLAY_APP_PACKAGE_NAME":"",	 
+		"PLAY_APP_PACKAGE_NAME":"ddd",	 
 		 "IS_WORKING":false
 		 
 	},
