@@ -71,7 +71,7 @@
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
 		"showDialogPlay" : false,
-		"showDialog" : true,
+		"showDialog" : false,
 		"showDialogAmazon" : false,
 		"isWorking": true,
 		"dialogTitle" : "NEW Mp3 Music Downloader PRO",
