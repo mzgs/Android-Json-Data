@@ -71,6 +71,7 @@
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
 		"SHOW_APP_BANNER" : false,
+		"APP_BANNER_URL":"ss",
 		"showDialogPlay" : false,
 		"showDialog" : false,
 		"showDialogAmazon" : false,
