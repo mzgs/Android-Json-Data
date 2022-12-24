@@ -70,6 +70,7 @@
 		"searchIntervalAds" : 2,
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
+		"SHOW_APP_BANNER" : false,
 		"showDialogPlay" : false,
 		"showDialog" : false,
 		"showDialogAmazon" : false,
