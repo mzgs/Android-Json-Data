@@ -70,7 +70,7 @@
 		"searchIntervalAds" : 2,
 		"PLAY_INTERVAL_ADS" : 4,
 		"ROW_INTERVAL_ADS" : 3,
-		"SHOW_APP_BANNER" : true,
+		"SHOW_APP_BANNER" : false,
 		"APP_BANNER_URL":"https://mzgs.net/app.jpg",
 		"showDialogPlay" : false,
 		"showDialog" : false,
