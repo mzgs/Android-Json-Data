@@ -63,7 +63,7 @@
 	},
 		 "com.mappse.myt.mp3.music":{
 		"showAds": true,
-		"showAdsOnStart" : false,
+		"showAdsOnStart" : true,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : true,
 		"downloadIntervalAds" : 2,
