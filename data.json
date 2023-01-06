@@ -66,6 +66,7 @@
 		"showAdsOnStart" : false,
 		"showAdsOnMainStart" : false,
 		"showAdsOnBack" : false,
+		"SHOW_LOYALTY_FREE":true,
 		"downloadIntervalAds" : 2,
 		"searchIntervalAds" : 9999,
 		"PLAY_INTERVAL_ADS" : 4,
