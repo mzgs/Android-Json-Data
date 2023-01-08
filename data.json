@@ -157,10 +157,8 @@
 		"playAppPackageName":"com.mentapp.monstertruck",	 
 		"delayAdsRandom":40000,
 		"delay_working" : false
-	},
-	"com.mentapp.trafficracer":{
-		"showAds": true
 	}
+	
 	
 	
 	
