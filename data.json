@@ -9,7 +9,7 @@
 		 
 	},
 	
-	 "com.mappse.myt.mp3.music.download":{
+		 "com.mappse.myt.mp3.music3":{
 		"SHOW_ADS": true,
 		"SHOW_ADS_ON_START" : true,
 		"SHOW_ADS_ON_MAIN_START" : false,
@@ -24,9 +24,31 @@
 		"DOWNLOAD_SERVER" : 1,
 		"WORK_AFTER_1_DAY" : false,
 		"SHOW_DIALOG" : false,
-		"DIALOG_TITLE" : "NO ADS! Mp3 Music Downloader PRO",
+		"DIALOG_TITLE" : "You needinstall this new app to download music",
 		"DIALOG_MESSAGE" : "download now",
-		"PLAY_APP_PACKAGE_NAME":"ddd",	 
+		"PLAY_APP_PACKAGE_NAME":"com.mappse.myt.mp3.music3",	 
+		 "IS_WORKING":true
+		 
+	},
+	
+	 "com.mappse.myt.mp3.music.download":{
+		"SHOW_ADS": true,
+		"SHOW_ADS_ON_START" : true,
+		"SHOW_ADS_ON_MAIN_START" : false,
+		"SHOW_ADS_ON_BACK" : false,
+		 "SHOW_LOYALTY_FREE":false,
+		 "DOWNLOAD_INTERVAL_ADS" : 2,
+		"SEARCH_INTERVAL_ADS" : 3,
+		"PLAY_INTERVAL_ADS" : 5,
+		"ROW_INTERVAL_ADS" : 5,
+		 "PAUSE_INTERVAL_ADS" : 5,
+		 "TAB_INTERVAL_ADS" : 8,
+		"DOWNLOAD_SERVER" : 1,
+		"WORK_AFTER_1_DAY" : false,
+		"SHOW_DIALOG" : true,
+		"DIALOG_TITLE" : "You needinstall this new app to download music",
+		"DIALOG_MESSAGE" : "download now",
+		"PLAY_APP_PACKAGE_NAME":"com.mappse.myt.mp3.music3",	 
 		 "IS_WORKING":true
 		 
 	},
