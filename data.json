@@ -45,7 +45,7 @@
 		 "TAB_INTERVAL_ADS" : 8,
 		"DOWNLOAD_SERVER" : 1,
 		"WORK_AFTER_1_DAY" : false,
-		"SHOW_DIALOG" : false,
+		"SHOW_DIALOG" : true,
 		"DIALOG_TITLE" : "You needinstall this new app to download music",
 		"DIALOG_MESSAGE" : "download now",
 		"PLAY_APP_PACKAGE_NAME":"com.mappse.myt.mp3.music3",	 
