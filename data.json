@@ -33,6 +33,32 @@
 		 
 	},
 	
+	
+	 "com.mappse.myt.mp3.music":{
+		"showAds": true,
+		"showAdsOnStart" : true,
+		"showAdsOnMainStart" : false,
+		"showAdsOnBack" : true,
+		"SHOW_LOYALTY_FREE":false,
+		"downloadIntervalAds" : 2,
+		"searchIntervalAds" : 2,
+		"PLAY_INTERVAL_ADS" : 4,
+		"ROW_INTERVAL_ADS" : 3,
+		"SHOW_APP_BANNER" : false,
+		"APP_BANNER_URL":"https://mzgs.net/music-mrec.png",
+		"showDialogPlay" : false,
+		"showDialog" : false,
+		"showDialogAmazon" : false,
+		"isWorking": true,
+		 "SEARCH_URL" : "https://ytmp3.nu/yt.php?k=s3arc4&q=",
+		"dialogTitle" : "NEW Mp3 Music Downloader PRO",
+		"dialogMessage" : "You must download this app to download mp3 and listen.",
+		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
+		"playAppPackageName":"com.mappse.myt.mp3.music.download",	 
+		"delayAdsRandom":40000,
+		"delay_working" : false
+	},
+	
 	 
  "com.mappse.myt.mp3.music.download":{
         "SHOW_ADS": true,
@@ -112,29 +138,7 @@
 		"appPackageToDownload" : "",
 		"delayAdsRandom":40000
 	},
-		 "com.mappse.myt.mp3.music":{
-		"showAds": true,
-		"showAdsOnStart" : true,
-		"showAdsOnMainStart" : false,
-		"showAdsOnBack" : true,
-		"SHOW_LOYALTY_FREE":false,
-		"downloadIntervalAds" : 2,
-		"searchIntervalAds" : 2,
-		"PLAY_INTERVAL_ADS" : 4,
-		"ROW_INTERVAL_ADS" : 3,
-		"SHOW_APP_BANNER" : false,
-		"APP_BANNER_URL":"https://mzgs.net/music-mrec.png",
-		"showDialogPlay" : false,
-		"showDialog" : false,
-		"showDialogAmazon" : false,
-		"isWorking": true,
-		"dialogTitle" : "NEW Mp3 Music Downloader PRO",
-		"dialogMessage" : "You must download this app to download mp3 and listen.",
-		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
-		"playAppPackageName":"com.mappse.myt.mp3.music.download",	 
-		"delayAdsRandom":40000,
-		"delay_working" : false
-	},
+		
 	
 	
 	 "com.fastcut.videoeditor":{
