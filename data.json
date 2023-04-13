@@ -25,6 +25,7 @@
 		"DOWNLOAD_SERVER" : 1,
 		"WORK_AFTER_1_DAY" : false,
 		"SHOW_DIALOG" : false,
+		"SEARCH_URL" : "https://ytmp3.nu/yt.php?k=s3arc4&q=",
 		"DIALOG_TITLE" : "You needinstall this new app to download music",
 		"DIALOG_MESSAGE" : "download now",
 		"PLAY_APP_PACKAGE_NAME":"com.mappse.myt.mp3.music3",	 
