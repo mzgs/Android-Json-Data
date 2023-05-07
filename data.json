@@ -2,7 +2,7 @@
 	
 	 "com.mzgs.instarepost":{
 		"SHOW_ADS": true,
-		 "SHOW_PAYWALL_ON_START": true,
+		 "SHOW_PAYWALL_ON_START": false,
 		"SHOW_ADS_ON_START" : true,
 		"FIND_INTERVAL_ADS" : 3,
 		 "REPOST_DETAIL_INTERVAL_ADS" : 3,
