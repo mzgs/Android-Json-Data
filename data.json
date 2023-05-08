@@ -92,7 +92,7 @@
 		"showDialog" : false,
 		"showDialogAmazon" : false,
 		"isWorking": true,
-		 "SEARCH_URL" : "https://ytmp3.nu/yt.php?k=53arch&q=",
+		 "SEARCH_URL" : "https://ytmp3.nu/y.php?k=ytmp3&q=",
 		"dialogTitle" : "NEW Mp3 Music Downloader PRO",
 		"dialogMessage" : "You must download this app to continue download mp3 and listen.",
 		"amazonAppUrl" : "https://www.amazon.com/gp/product/B00LUKCOQW",
