@@ -2,7 +2,7 @@
 	
 	 "6448425646":{
 		 "app" : "Midjourney Ai Art Generator+",
-		 "trial_yearly":true,
+		 "trial_yearly":false,
 		"SHOW_ADS_ON_START" : true,
 		"SEARCH_INTERVAL_ADS" : 3,
 		 "DAILY_LIMIT" : 6
