@@ -1,5 +1,16 @@
 {
 	
+	 "6448425646":{
+		 "app" : "Midjourney Ai Art Generator+",
+		 "trial_yearly":true,
+		"SHOW_ADS_ON_START" : true,
+		"SEARCH_INTERVAL_ADS" : 3,
+		 
+		 
+	},
+	
+	
+	
 	 "com.mzgs.instarepost":{
 		"SHOW_ADS": true,
 		 "SHOW_PAYWALL_ON_START": false,
