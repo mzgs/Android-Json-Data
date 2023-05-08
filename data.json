@@ -4,7 +4,8 @@
 		 "app" : "Midjourney Ai Art Generator+",
 		 "trial_yearly":true,
 		"SHOW_ADS_ON_START" : true,
-		"SEARCH_INTERVAL_ADS" : 3
+		"SEARCH_INTERVAL_ADS" : 3,
+		 "DAILY_LIMIT" : 10
 		 
 		 
 	},
