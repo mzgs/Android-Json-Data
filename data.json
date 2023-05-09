@@ -5,6 +5,7 @@
 		 "trial_yearly":true,
 		"SHOW_ADS_ON_START" : true,
 		 "SHOW_APPOPEN_ADS" : true,
+		 "DAILY_LIMIT" : 6,
 		"SEARCH_INTERVAL_ADS" : 3
 		 
 		 
