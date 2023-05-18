@@ -30,7 +30,7 @@
 	 "com.mappse.myt.mp3.music4":{
 		"SHOW_ADS": true,
 		"SHOW_ADS_NEW_VERSION": true,
-		"SHOW_ADS_ON_START" : false,
+		"SHOW_ADS_ON_START" : true,
 		"SHOW_ADS_ON_MAIN_START" : false,
 		"SHOW_ADS_ON_BACK" : false,
 		 "SHOW_LOYALTY_FREE":false,
