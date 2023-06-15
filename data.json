@@ -6,7 +6,7 @@
 		"SHOW_ADS_ON_START" : true,
 		 "SHOW_APPOPEN_ADS" : true,
 		 "DAILY_LIMIT" : 9,
-		  "STEPS" : 20,
+		  "STEPS" : 15,
 		"SEARCH_INTERVAL_ADS" : 2
 		 
 		 
