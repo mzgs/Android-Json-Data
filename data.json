@@ -5,7 +5,7 @@
 		 "trial_yearly":false,
 		"SHOW_ADS_ON_START" : true,
 		 "SHOW_APPOPEN_ADS" : true,
-		 "DAILY_LIMIT" : 9,
+		 "DAILY_LIMIT" : 15,
 		  "STEPS" : 20,
 		"SEARCH_INTERVAL_ADS" : 2
 		 
