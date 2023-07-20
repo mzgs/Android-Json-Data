@@ -8,8 +8,8 @@
 		 "DAILY_LIMIT" : 30,
 		  "STEPS" : 22,
 		"SEARCH_INTERVAL_ADS" : 2,
-		  "aspect_11_x" : 512,
-		  "aspect_11_y" : 512,
+		  "aspect_11_x" : 1024,
+		  "aspect_11_y" : 1024,
 		  "aspect_23_x" : 512,
 		  "aspect_23_y" : 768,
 		  "aspect_32_x" : 768,
@@ -17,7 +17,7 @@
 		 "save_images":true,
 		 "home_server_api_url":"http://78.187.157.61:7860/sdapi/v1/txt2img",
 		 "stability_engine_list": [ "stable-diffusion-xl-beta-v2-2-2", "stable-diffusion-xl-1024-v0-9"],
-		 "stability_engine_id" : "stable-diffusion-xl-beta-v2-2-2",
+		 "stability_engine_id" : "stable-diffusion-xl-1024-v0-9",
 		 "stability_steps":20
 		 
 		 
