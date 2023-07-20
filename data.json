@@ -7,7 +7,14 @@
 		 "SHOW_APPOPEN_ADS" : true,
 		 "DAILY_LIMIT" : 30,
 		  "STEPS" : 22,
-		"SEARCH_INTERVAL_ADS" : 2
+		"SEARCH_INTERVAL_ADS" : 2,
+		  "aspect_11_x" : 512,
+		  "aspect_11_y" : 512,
+		  "aspect_23_x" : 512,
+		  "aspect_23_y" : 768,
+		  "aspect_32_x" : 768,
+		  "aspect_32_y" : 512,
+		 "home_server_api_url":"http://78.187.157.61:7860/sdapi/v1/txt2img"
 		 
 		 
 	},
