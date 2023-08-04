@@ -6,7 +6,7 @@
 		"SHOW_ADS_ON_START": true,
 		"SHOW_APPOPEN_ADS": true,
 		"DAILY_LIMIT": 30,
-		"STEPS": 22,
+		"STEPS": 20,
 		"SEARCH_INTERVAL_ADS": 2,
 		"create_order":["create","search"],
 		"aspect_11_x": 1024,
