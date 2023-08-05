@@ -8,7 +8,7 @@
 		"DAILY_LIMIT": 7,
 		"STEPS": 20,
 		"SEARCH_INTERVAL_ADS": 2,
-		"timer":3000,
+		"timer":4000,
 		"create_order":["create","search"],
 		"aspect_11_x": 1024,
 		"aspect_11_y": 1024,
