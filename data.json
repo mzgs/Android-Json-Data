@@ -5,7 +5,7 @@
 		"use_stability_api": false,
 		"SHOW_ADS_ON_START": true,
 		"SHOW_APPOPEN_ADS": true,
-		"DAILY_LIMIT": 7,
+		"DAILY_LIMIT": 9,
 		"STEPS": 20,
 		"SEARCH_INTERVAL_ADS": 2,
 		"timer":4000,
