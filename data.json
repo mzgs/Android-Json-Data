@@ -2,7 +2,7 @@
 	"6448425646": {
 		"app": "Midjourney Ai Art Generator+",
 		"trial_yearly": false,
-		"use_stability_api": false,
+		"use_stability_api": true,
 		"SHOW_ADS_ON_START": true,
 		"SHOW_APPOPEN_ADS": true,
 		"DAILY_LIMIT": 9,
@@ -11,12 +11,13 @@
 		"timer":4000,
 		"generate_rate":4,
 		"create_order":["create","search"],
-		"aspect_11_x": 1024,
-		"aspect_11_y": 1024,
-		"aspect_23_x": 768,
-		"aspect_23_y": 1024,
-		"aspect_32_x": 1024,
-		"aspect_32_y": 768,
+		
+		"aspect_11_x": 512,
+		"aspect_11_y": 512,
+		"aspect_23_x": 512,
+		"aspect_23_y": 768,
+		"aspect_32_x": 768,
+		"aspect_32_y": 512,
 		"save_images": true,
 		"home_server_api_url": "http://78.187.157.61:7860/sdapi/v1/txt2img",
 		"stability_engine_list": [
