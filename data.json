@@ -10,7 +10,7 @@
 		"DAILY_LIMIT": 9,
 		"STEPS": 20,
 		"SEARCH_INTERVAL_ADS": 2,
-		"timer":4000,
+		"timer":2000,
 		"generate_rate":4,
 		"create_order":["create","search"],
 				"aspect_11_x": 512,
