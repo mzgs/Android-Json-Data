@@ -28,6 +28,19 @@
 		"stability_engine_id": "stable-diffusion-xl-beta-v2-2-2",
 		"stability_steps": 20
 	},
+
+	"com.instasave.instantdownloader": {
+		"SHOW_ADS": true,
+		"SHOW_PAYWALL_ON_START": false,
+		"SHOW_ADS_ON_START": true,
+		"DAILY_LIMIT": 50,
+		"FIND_INTERVAL_ADS": 3,
+		"REPOST_DETAIL_INTERVAL_ADS": 3,
+		"DOWNLOAD_INTERVAL_ADS": 2,
+		"SHARE_INTERVAL_ADS": 3,
+		"HASHTAG_INTERVAL_ADS": 2,
+		"parse_delay":9
+	},
 	
 	"com.mzgs.instarepost": {
 		"SHOW_ADS": true,
