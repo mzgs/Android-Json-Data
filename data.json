@@ -39,7 +39,8 @@
 		"DOWNLOAD_INTERVAL_ADS": 2,
 		"SHARE_INTERVAL_ADS": 3,
 		"HASHTAG_INTERVAL_ADS": 2,
-		"parse_delay":9
+		"parse_delay":9,
+		"appopen_Delay":15
 	},
 	
 	"com.mzgs.instarepost": {
