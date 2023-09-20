@@ -41,7 +41,8 @@
 		"HASHTAG_INTERVAL_ADS": 2,
 		"parse_delay":9,
 		"appopen_Delay":15,
-		"parser":"rapidapi"
+		"parser":"rapidapi",
+		"showAdmobInterstitialOnStart":false
 	},
 	
 	"com.mzgs.instarepost": {
