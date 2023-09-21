@@ -40,10 +40,10 @@
 		"SHARE_INTERVAL_ADS": 3,
 		"HASHTAG_INTERVAL_ADS": 2,
 		"parse_delay":9,
-		"appopen_Delay":600,
+		"appopen_Delay":120,
 		"parser":"rapidapi",
 		"showAdmobInterstitialOnStart":false,
-		"show_interstitial_on_start":false
+		"show_interstitial_on_start":true
 	},
 	
 	"com.mzgs.instarepost": {
