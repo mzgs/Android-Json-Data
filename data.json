@@ -40,7 +40,7 @@
 		"SHARE_INTERVAL_ADS": 3,
 		"HASHTAG_INTERVAL_ADS": 2,
 		"parse_delay":9,
-		"appopen_Delay":15,
+		"appopen_Delay":600,
 		"parser":"rapidapi",
 		"showAdmobInterstitialOnStart":false,
 		"show_interstitial_on_start":false
