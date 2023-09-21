@@ -43,7 +43,7 @@
 		"appopen_Delay":120,
 		"parser":"rapidapi",
 		"showAdmobInterstitialOnStart":true,
-		"show_interstitial_on_start":false
+		"show_interstitial_on_start":true
 	},
 	
 	"com.mzgs.instarepost": {
