@@ -42,8 +42,12 @@
 		"parse_delay":9,
 		"appopen_Delay":120,
 		"parser":"rapidapi",
-		"showAdmobInterstitialOnStart":true,
+		"showAdmobInterstitialOnStart":false,
 		"show_interstitial_on_start":true
+	},
+	"com.instasave.instantdownloader": {
+"showAdmobInterstitialOnStart":false
+		
 	},
 	
 	"com.mzgs.instarepost": {
