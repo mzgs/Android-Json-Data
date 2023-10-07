@@ -49,6 +49,11 @@
 "showAdmobInterstitialOnStart":false
 		
 	},
+
+		"com.nest.videodownlaoder": {
+"showAdmobInterstitialOnStart":false
+		
+	},
 	
 	"com.mzgs.instarepost": {
 		"SHOW_ADS": true,
