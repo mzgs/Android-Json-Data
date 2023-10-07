@@ -45,10 +45,7 @@
 		"showAdmobInterstitialOnStart":false,
 		"show_interstitial_on_start":true
 	},
-	"com.instasave.instantdownloader": {
-"showAdmobInterstitialOnStart":false
-		
-	},
+
 
 		"com.nest.videodownlaoder": {
 "showAdmobInterstitialOnStart":false
