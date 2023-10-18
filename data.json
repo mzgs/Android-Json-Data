@@ -49,7 +49,7 @@
 
 		"com.nest.videodownlaoder": {
 "showAdmobInterstitialOnStart":false,
-			"showInterstitialOnStart":false
+			"showInterstitialOnStart":true
 		
 	},
 	
