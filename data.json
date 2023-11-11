@@ -2,7 +2,8 @@
     "6471366161": {
         "app": "Music Player",
         "freemusic": false,
-        "play_interstitial":4
+        "play_interstitial":4,
+        "freemusic1.1.0":true
     },
     "6448425646": {
         "app": "Midjourney Ai Art Generator+",
