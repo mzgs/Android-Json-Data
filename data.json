@@ -18,7 +18,8 @@
         "freemusic": false,
         "play_interstitial":3,
         "freemusic_1.1.0":false,
-       "freemusic_1.2.0":false
+       "freemusic_1.2.0":false,
+           "allpremium":true
     },
     "6448425646": {
         "app": "Midjourney Ai Art Generator+",
