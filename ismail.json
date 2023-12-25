@@ -1,6 +1,7 @@
 {
   "6474788506": {
     "app": "Habit Tracker",
+    "SHOW_ADS":false,
     "HABIT_LIMIT": 2
    
   }
