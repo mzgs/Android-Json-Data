@@ -2,7 +2,8 @@
   "6474788506": {
     "app": "Habit Tracker",
     "SHOW_ADS":true,
-    "HABIT_LIMIT": 2
+    "HABIT_LIMIT": 2,
+    "REPORT_LIMIT":12
    
   }
 
