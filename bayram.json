@@ -3,7 +3,7 @@
         "app": "AI Photo Generator",
         "trial_yearly": false,
         "use_stability_api": false,
-        "SHOW_ADS_ON_START": true,
+        "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
         "DAILY_LIMIT": 9,
         "STEPS": 20,
