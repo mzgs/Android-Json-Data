@@ -17,7 +17,7 @@
         "aspect_horizontal_x": 1024,
         "aspect_horizontal_y": 768,
         "save_images": true,
-        "home_server_api_urls": ["http://78.187.157.61:7861/sdapi/v1/txt2img","http://78.187.157.61:7861/sdapi/v1/txt2img"],
+        "home_server_api_urls": ["http://78.187.157.61:7860/sdapi/v1/txt2img","http://78.187.157.61:7861/sdapi/v1/txt2img"],
         "stability_engine_list": [
             "stable-diffusion-xl-beta-v2-2-2",
             "stable-diffusion-xl-1024-v0-9"
