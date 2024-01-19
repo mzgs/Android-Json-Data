@@ -3,7 +3,7 @@
     "app": "Habit Tracker",
     "SHOW_ADS":true,
     "HABIT_LIMIT": 2,
-    "REPORT_LIMIT":12
+    "REPORT_LIMIT":1
    
   }
 
