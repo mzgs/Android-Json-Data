@@ -1,7 +1,8 @@
 {
 "6475609644": {
         "app": "AI Photo Generator",
-        "generate_ads":true,
+        "generate_ads":false,
+        "regenerate_ads":false,
         "trial_yearly": false,
         "use_stability_api": false,
         "show_ads": true,
