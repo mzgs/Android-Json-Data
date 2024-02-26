@@ -2,10 +2,10 @@
 
        "6472447606": {
         "app": "Repost",
-       "DAILY_LIMIT": 5,
-        "REPOST_DETAIL_INTERVAL_ADS":7,
-       "PARSE_INTERVAL_ADS":5,
-       "showAdInButtons":false,
+       "DAILY_LIMIT": 9,
+        "REPOST_DETAIL_INTERVAL_ADS":2,
+       "PARSE_INTERVAL_ADS":2,
+       "showAdInButtons":true,
        "appopen_delay":300,
        "waitSeconds":20,
        "products":["repost_weekly_discount","repost_yearly_discount"],
