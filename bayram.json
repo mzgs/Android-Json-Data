@@ -4,7 +4,7 @@
         "generate_ads":true,
         "regenerate_ads":true,
         "trial_yearly": false,
-        "rateFirstCount":1,
+        "rateFirstCount":2,
         "use_stability_api": false,
         "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
