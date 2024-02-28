@@ -8,7 +8,7 @@
        "showAdInButtons":true,
        "appopen_delay":300,
        "waitSeconds":20,
-       "products":["repost_weekly_discount","repost_yearly_discount"],
+       "products":["repost_weekly","repost_yearly"],
         "import_1.0.0":false,
         "import_1.1.0":false,
        "import_1.2.0":false,
