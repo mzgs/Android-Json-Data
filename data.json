@@ -4,7 +4,7 @@
         "app": "Repost",
        "DAILY_LIMIT": 9,
         "REPOST_DETAIL_INTERVAL_ADS":2,
-              "downloadShowPaywallCount":2,
+              "downloadShowPaywallCount":3,
        "PARSE_INTERVAL_ADS":2,
        "showAdInButtons":true,
        "appopen_delay":300,
