@@ -5,6 +5,13 @@
     "HABIT_LIMIT": 2,
     "REPORT_LIMIT":1
    
+  },
+    "com.ismail.habittracker": {
+    "app": "Habit Tracker",
+    "SHOW_ADS":true,
+    "HABIT_LIMIT": 2,
+    "REPORT_LIMIT":1
+   
   }
 
 }
