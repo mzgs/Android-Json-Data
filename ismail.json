@@ -12,8 +12,8 @@
     "HABIT_LIMIT": 2,
     "REPORT_LIMIT":1,
     "products":["habit_weekly_discount","habit_yearly"],
-        "premiumTitle":"pr4",
-          "buttonText":"btn2",
+        "premiumTitle":"pr3",
+          "buttonText":"btn2"
    
   }
 
