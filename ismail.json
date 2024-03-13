@@ -11,6 +11,7 @@
     "SHOW_ADS":true,
     "HABIT_LIMIT": 2,
     "REPORT_LIMIT":1,
+      "trialProduct":"habit_weekly_discount",
     "products":["habit_weekly_discount","habit_yearly"],
         "premiumTitle":"Get Full Access",
           "buttonText":"CONTINUE"
