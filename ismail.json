@@ -1,21 +1,22 @@
 {
-  "6474788506": {
-    "app": "Habit Tracker",
-    "SHOW_ADS":true,
-    "HABIT_LIMIT": 2,
-    "REPORT_LIMIT":1
-   
-  },
+    "6474788506": {
+        "app": "Habit Tracker",
+        "SHOW_ADS": true,
+        "HABIT_LIMIT": 2,
+        "REPORT_LIMIT": 1
+    },
     "com.ismail.habittracker": {
-    "app": "Habit Tracker",
-    "SHOW_ADS":true,
-    "HABIT_LIMIT": 2,
-    "REPORT_LIMIT":1,
-      "trialProduct":"habit_weekly_discount",
-    "products":["habit_weekly_discount","habit_yearly"],
-        "premiumTitle":"Get Full Access",
-          "buttonText":"CONTINUE"
-   
-  }
-
+        "app": "Habit Tracker",
+        "SHOW_ADS": true,
+        "HABIT_LIMIT": 2,
+        "REPORT_LIMIT": 1,
+        "trialProduct": "habit_weekly_discount",
+        "products": [
+            "habit_weekly",
+            "habit_yearly"
+        ],
+        "premiumTitle": "Get Full Access",
+        "buttonText": "START FREE TRIAL",
+        "showFree3dayInfo": true
+    }
 }
