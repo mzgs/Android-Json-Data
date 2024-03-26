@@ -12,9 +12,10 @@
         "REPORT_LIMIT": 1,
         "trialProduct": "habit_weekly_discount",
         "products": [
-            "habit_weekly",
-            "habit_yearly"
+            "habit_weekly_discount",
+            "habit_yearly_discount"
         ],
+        "selectedProduct":"habit_weekly_discount",
         "premiumTitle": "Try Premium Free",
         "buttonText": "START 3-DAY FREE TRIAL",
         "showFree3dayInfo": true
