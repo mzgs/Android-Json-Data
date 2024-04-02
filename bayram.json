@@ -33,7 +33,7 @@
         "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
         "DAILY_LIMIT": 15,
-        "STEPS": 35,
+        "STEPS": 20,
            "premiumTitle":"pr4",
           "buttonText":"btn3",
         "SEARCH_INTERVAL_ADS": 2,
