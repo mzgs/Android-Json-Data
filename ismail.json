@@ -18,6 +18,6 @@
         "selectedProduct":"habit_weekly_discount",
         "premiumTitle": "Try Premium Free",
         "buttonText": "START 3-DAY FREE TRIAL",
-        "showFree3dayInfo": true
+        "showFree3dayInfo": false
     }
 }
