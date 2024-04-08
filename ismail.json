@@ -10,7 +10,7 @@
         "SHOW_ADS": true,
         "HABIT_LIMIT": 2,
         "REPORT_LIMIT": 1,
-        "trialProduct": "habit_weekly_discount",
+        "trialProduct": "habit_weekly_discount33",
         "products": [
             "habit_weekly_discount",
             "habit_yearly_discount"
