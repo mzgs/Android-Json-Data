@@ -9,7 +9,7 @@
        "waitSeconds":20,
           "premiumTitle":"pr4",
           "buttonText":"btn2",
-       "products":["repost_weekly_discount","repost_yearly_discount"],
+       "products":["repost_weekly","repost_yearly","repost_weekly_discount","repost_yearly_discount"],
         "import_1.0.0":false,
         "import_1.1.0":false,
        "import_1.2.0":false,
