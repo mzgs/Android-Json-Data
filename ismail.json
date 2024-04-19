@@ -21,7 +21,8 @@
         "showFree3dayInfo": false
     },
       "com.ismail.backgroundremover": {
-          "showImageInPaywall":false
+          "showImageInPaywall":false,
+          "premiumTitle": "Unlock Premium"
           
       }
 }
