@@ -19,5 +19,9 @@
         "premiumTitle": "Try Premium Free",
         "buttonText": "START 3-DAY FREE TRIAL",
         "showFree3dayInfo": false
-    }
+    },
+      "com.ismail.backgroundremover": {
+          "showImageInPaywall":false
+          
+      }
 }
