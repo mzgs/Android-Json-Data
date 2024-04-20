@@ -31,7 +31,7 @@
         "rateFirstCount":2,
           "deep_images_count":1,
         "use_stability_api": false,
-        "products2":["art_weekly_discount","art_yearly_discount"],
+        "products2":["art_weekly","art_yearly"],
         "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
         "DAILY_LIMIT": 15,
