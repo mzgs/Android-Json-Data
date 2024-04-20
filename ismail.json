@@ -22,7 +22,8 @@
     },
       "com.ismail.backgroundremover": {
           "showImageInPaywall":false,
-          "premiumTitle": "Unlock Premium"
+          "premiumTitle": "Unlock Premium",
+            "DAILY_LIMIT": 3
           
       }
 }
