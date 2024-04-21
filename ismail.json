@@ -23,7 +23,12 @@
       "com.ismail.backgroundremover": {
           "showImageInPaywall":false,
           "premiumTitle": "Unlock Premium",
-            "DAILY_LIMIT": 3
+            "DAILY_LIMIT": 3,
+             "products": [
+            "bgremover_weekly",
+            "bgremover_yearly"
+        ],
+        "selectedProduct":"bgremover_weekly",
           
       }
 }
