@@ -25,10 +25,10 @@
           "premiumTitle": "Unlock Premium",
             "DAILY_LIMIT": 3,
              "products": [
-            "bgremover_weekly",
-            "bgremover_yearly"
+            "bgremover_weekly_discount",
+            "bgremover_yearly_discount"
         ],
-        "selectedProduct":"bgremover_weekly"
+        "selectedProduct":"bgremover_yearly_discount"
           
       }
 }
