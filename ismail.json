@@ -15,20 +15,20 @@
             "habit_weekly_discount",
             "habit_yearly_discount"
         ],
-        "selectedProduct":"habit_weekly_discount",
+        "selectedProduct": "habit_weekly_discount",
         "premiumTitle": "Try Premium Free",
         "buttonText": "START 3-DAY FREE TRIAL",
         "showFree3dayInfo": false
     },
-      "com.ismail.backgroundremover": {
-          "showImageInPaywall":false,
-          "premiumTitle": "Unlock Premium",
-            "DAILY_LIMIT": 3,
-             "products": [
-            "bgremover_weekly_discount",
-            "bgremover_yearly_discount"
+    "com.ismail.backgroundremover": {
+        "showImageInPaywall": false,
+        "premiumTitle": "Try Premium Free",
+        "buttonText": "START 3-DAY FREE TRIAL",
+        "DAILY_LIMIT": 3,
+        "products": [
+            "bgremover_weekly",
+            "bgremover_yearly"
         ],
-        "selectedProduct":"bgremover_yearly_discount"
-          
-      }
+        "selectedProduct": "bgremover_weekly"
+    }
 }
