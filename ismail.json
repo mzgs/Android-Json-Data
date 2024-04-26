@@ -25,10 +25,11 @@
         "premiumTitle": "Try Premium Free",
         "buttonText": "START 3-DAY FREE TRIAL",
         "DAILY_LIMIT": 3,
+        "inapprate_count":3,
         "products": [
-            "bgremover_weekly",
-            "bgremover_yearly"
+            "bgremover_weekly_discount",
+            "bgremover_yearly_discount"
         ],
-        "selectedProduct": "bgremover_weekly"
+        "selectedProduct": "bgremover_weekly_discount"
     }
 }
