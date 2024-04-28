@@ -25,11 +25,11 @@
         "premiumTitle": "Unlock All Features",
         "buttonText": "START 3-DAY FREE TRIAL",
         "DAILY_LIMIT": 3,
-        "inapprate_count":3,
+        "inapprate_count":1,
         "products": [
-            "bgremover_weekly_discount",
-            "bgremover_yearly_discount"
+            "bgremover_weekly",
+            "bgremover_yearly"
         ],
-        "selectedProduct": "bgremover_weekly_discount"
+        "selectedProduct": "bgremover_weekly"
     }
 }
