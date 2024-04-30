@@ -23,7 +23,7 @@
     "com.ismail.backgroundremover": {
         "showImageInPaywall": false,
         "premiumTitle": "Unlock All Features",
-        "buttonText": "START 3-DAY FREE TRIAL",
+        "buttonText": "Continue",
         "DAILY_LIMIT": 7,
         "inapprate_count":1,
         "products": [
