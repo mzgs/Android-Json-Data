@@ -28,7 +28,7 @@
         "generate_ads":true,
         "regenerate_ads":true,
         "trial_yearly": false,
-        "rateFirstCount":2,
+        "rateFirstCount":4,
           "deep_images_count":1,
         "use_stability_api": false,
         "products2":["art_weekly","art_yearly"],
