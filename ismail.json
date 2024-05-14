@@ -27,9 +27,9 @@
         "DAILY_LIMIT": 7,
         "inapprate_count":1,
         "products": [
-            "bgremover_weekly",
+            "bgremover_weekly_discount",
             "bgremover_yearly"
         ],
-        "selectedProduct": "bgremover_weekly"
+        "selectedProduct": "bgremover_weekly_discount"
     }
 }
