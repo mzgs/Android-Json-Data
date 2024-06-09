@@ -1,43 +1,50 @@
 {
-          "6472447606": {
+    "6472447606": {
         "app": "Repost",
-       "DAILY_LIMIT": 9,
-        "REPOST_DETAIL_INTERVAL_ADS":2,
-       "PARSE_INTERVAL_ADS":2,
-       "showAdInButtons":true,
-       "appopen_delay":300,
-       "waitSeconds":20,
-          "premiumTitle":"pr4",
-          "buttonText":"btn2",
-       "products":["repost_weekly","repost_yearly","repost_weekly_discount","repost_yearly_discount"],
-        "import_1.0.0":false,
-        "import_1.1.0":false,
-       "import_1.2.0":false,
-       "import_1.3.0":false,
-       "import_1.4.0":false,
-       "import_1.5.0":false,
-       "import_1.6.0":false,
-       "import_1.7.0":false,
-       "import_1.8.0":false,
-       "import_1.9.0":false,
-       "import_2.0.0":false
-              
+        "DAILY_LIMIT": 9,
+        "REPOST_DETAIL_INTERVAL_ADS": 2,
+        "PARSE_INTERVAL_ADS": 2,
+        "showAdInButtons": true,
+        "appopen_delay": 300,
+        "waitSeconds": 20,
+        "premiumTitle": "pr4",
+        "buttonText": "btn2",
+        "products": [
+            "repost_weekly",
+            "repost_yearly",
+            "repost_weekly_discount",
+            "repost_yearly_discount"
+        ],
+        "import_1.0.0": false,
+        "import_1.1.0": false,
+        "import_1.2.0": false,
+        "import_1.3.0": false,
+        "import_1.4.0": false,
+        "import_1.5.0": false,
+        "import_1.6.0": false,
+        "import_1.7.0": false,
+        "import_1.8.0": false,
+        "import_1.9.0": false,
+        "import_2.0.0": false
     },
-"6475609644": {
+    "6475609644": {
         "app": "AI Photo Generator",
-        "generate_ads":true,
-        "regenerate_ads":true,
+        "generate_ads": true,
+        "regenerate_ads": true,
         "trial_yearly": false,
-        "rateFirstCount":1,
-          "deep_images_count":1,
+        "rateFirstCount": 1,
+        "deep_images_count": 1,
         "use_stability_api": false,
-        "products2":["art_weekly","art_yearly"],
+        "products2": [
+            "art_weekly",
+            "art_yearly"
+        ],
         "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
         "DAILY_LIMIT": 15,
         "STEPS": 20,
-           "premiumTitle":"pr4",
-          "buttonText":"btn3",
+        "premiumTitle": "pr4",
+        "buttonText": "btn3",
         "SEARCH_INTERVAL_ADS": 2,
         "timer": 2000,
         "generate_rate": 4,
@@ -48,7 +55,10 @@
         "aspect_horizontal_x": 1024,
         "aspect_horizontal_y": 768,
         "save_images": true,
-        "home_server_api_urls": ["http://78.187.157.61:7860/sdapi/v1/txt2img","http://78.187.157.61:7861/sdapi/v1/txt2img"],
+        "home_server_api_urls": [
+            "http://78.187.157.61:7860/sdapi/v1/txt2img",
+            "http://78.187.157.61:7861/sdapi/v1/txt2img"
+        ],
         "stability_engine_list": [
             "stable-diffusion-xl-beta-v2-2-2",
             "stable-diffusion-xl-1024-v0-9"
@@ -56,10 +66,11 @@
         "stability_engine_id": "stable-diffusion-xl-beta-v2-2-2",
         "stability_steps": 20
     },
-          "6503292056":{
-                "app":"ai chat",
-          "products2":["chat_weekly","chat_yearly"]
-                    
-          }
-
+    "6503292056": {
+        "app": "ai chat",
+        "products2": [
+            "chat_weekly",
+            "chat_yearly"
+        ]
+    }
 }
