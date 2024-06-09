@@ -55,6 +55,11 @@
         ],
         "stability_engine_id": "stable-diffusion-xl-beta-v2-2-2",
         "stability_steps": 20
-    }
+    },
+          "6503292056":{
+                "app":"ai chat",
+          "products2":["chat_weekly","chat_yearly"]
+                    
+          }
 
 }
