@@ -70,7 +70,7 @@
         "app": "ai chat",
         "products": [
             "chat_weekly",
-            "chat_yearly"
+            "chat_yearly_discount"
         ]
     }
 }
