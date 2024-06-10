@@ -70,7 +70,8 @@
         "app": "ai chat",
         "products": [
             "chat_weekly",
-            "chat_yearly_discount"
+            "chat_yearly_discount",
+            "chatgpt4HardLimit":5
         ]
     }
 }
