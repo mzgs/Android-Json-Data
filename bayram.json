@@ -72,6 +72,7 @@
             "chat_weekly",
             "chat_yearly_discount"
         ],
-         "chatgpt4HardLimit":5
+         "chatgpt4HardLimit":5,
+        "home_server_api_urls":["http://78.187.157.61:7860/sdapi/v1/txt2img"]
     }
 }
