@@ -35,6 +35,7 @@
         "rateFirstCount": 1,
         "deep_images_count": 1,
         "use_stability_api": false,
+        "showOnboard":true,
         "products2": [
             "art_weekly",
             "art_yearly"
