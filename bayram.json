@@ -72,7 +72,7 @@
         "app": "ai chat",
         "paywallImage":"appicon.png",
         "products": [
-            "chat_weekly_discount",
+            "chat_weekly",
             "chat_yearly"
         ],
          "chatgpt4HardLimit":5,
