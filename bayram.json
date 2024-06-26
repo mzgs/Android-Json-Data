@@ -71,7 +71,7 @@
     "6503292056": {
         "app": "ai chat",
         "paywallImage":"black.webp",
-        "buttonTextTrial":"btn3",
+        "buttonTextTrial":"btn2",
         "products": [
             "chat_weekly",
             "chat_yearly"
