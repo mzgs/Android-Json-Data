@@ -73,6 +73,7 @@
         "paywallImage":"black.webp",
         "chat_url":"http://78.187.157.61:8888",
         "buttonTextTrial":"btn2",
+        "showRatingOffer":true,
         "products": [
             "chat_weekly",
             "chat_yearly"
