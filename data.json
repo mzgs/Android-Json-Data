@@ -2,7 +2,7 @@
 
        "6472447606": {
         "app": "Repost",
-       "DAILY_LIMIT": 9,
+       "DAILY_LIMIT": 2,
         "REPOST_DETAIL_INTERVAL_ADS":2,
               "downloadShowPaywallCount":3,
        "PARSE_INTERVAL_ADS":2,
