@@ -49,6 +49,7 @@
         "buttonText": "btn3",
         "SEARCH_INTERVAL_ADS": 2,
         "timer": 2000,
+        "sampler":"DPM++ 2M",
         "generate_rate": 4,
         "aspect_square_x": 1024,
         "aspect_square_y": 1024,
