@@ -73,7 +73,7 @@
     "6503292056": {
         "app": "ai chat",
         "paywallImage":"black.webp",
-        "chat_url":"http://78.187.157.61:8888",
+        "chat_url":"https://mzgs.net/ai-chat.php",
         "sampler":"DPM++ 2M",
         "buttonTextTrial":"btn2",
         "newchatrate":3,
