@@ -77,7 +77,7 @@
         "chatgpt4ImageHardLimit": 50,
         "sampler": "DPM++ 2M",
         "buttonTextTrial": "btn2",
-        "newchatrate": 3,
+        "newchatrate": 2,
         "showRatingOffer": false,
         "products": [
             "chat_weekly",
