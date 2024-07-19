@@ -10,10 +10,9 @@
         "premiumTitle": "pr4",
         "buttonText": "btn2",
         "products": [
-            
-             "repost_weekly_discount",
-              "repost_yearly",
-             "repost_weekly",
+            "repost_weekly_discount",
+            "repost_yearly",
+            "repost_weekly",
             "repost_yearly_discount"
         ],
         "import_1.0.0": false,
@@ -36,8 +35,8 @@
         "rateFirstCount": 2,
         "deep_images_count": 1,
         "use_stability_api": false,
-        "showOnboard":true,
-        "paywallDarkMode":false,
+        "showOnboard": true,
+        "paywallDarkMode": false,
         "products2": [
             "art_weekly",
             "art_yearly"
@@ -50,7 +49,7 @@
         "buttonText": "btn3",
         "SEARCH_INTERVAL_ADS": 2,
         "timer": 2000,
-        "sampler":"DPM++ 2M",
+        "sampler": "DPM++ 2M",
         "generate_rate": 4,
         "aspect_square_x": 1024,
         "aspect_square_y": 1024,
@@ -72,20 +71,22 @@
     },
     "6503292056": {
         "app": "ai chat",
-        "paywallImage":"black.webp",
-        "chat_url":"http://64.226.64.197:8888",
-        "chatgpt4HardLimit":50,
-        "chatgpt4ImageHardLimit":50,
-        "sampler":"DPM++ 2M",
-        "buttonTextTrial":"btn2",
-        "newchatrate":3,
-        "showRatingOffer":false,
+        "paywallImage": "black.webp",
+        "chat_url": "http://64.226.64.197:8888",
+        "chatgpt4HardLimit": 50,
+        "chatgpt4ImageHardLimit": 50,
+        "sampler": "DPM++ 2M",
+        "buttonTextTrial": "btn2",
+        "newchatrate": 3,
+        "showRatingOffer": false,
         "products": [
             "chat_weekly",
             "chat_yearly"
         ],
-        "paywallDarkMode":true,
-        
-        "home_server_api_urls":["http://78.187.157.61:7860/sdapi/v1/txt2img","http://78.187.157.61:7861/sdapi/v1/txt2img"]
+        "paywallDarkMode": true,
+        "home_server_api_urls": [
+            "http://78.187.157.61:7860/sdapi/v1/txt2img",
+            "http://78.187.157.61:7861/sdapi/v1/txt2img"
+        ]
     }
 }
