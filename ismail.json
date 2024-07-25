@@ -1,10 +1,10 @@
 {
-
-     "com.ismail.authenticatorapp": {
-        "products":[ "auth_weekly","auth_yearly"  ]
-         
-     },
-    
+    "com.ismail.authenticatorapp": {
+        "products": [
+            "auth_weekly",
+            "auth_yearly"
+        ]
+    },
     "6474788506": {
         "app": "Habit Tracker",
         "SHOW_ADS": true,
@@ -31,12 +31,11 @@
         "premiumTitle": "Unlimited Access To All Features",
         "buttonText": "Continue",
         "DAILY_LIMIT": 7,
-        "inapprate_count":1,
+        "inapprate_count": 1,
         "products": [
             "bgremover_weekly",
             "bgremover_lifetime"
         ],
         "selectedProduct": "bgremover_weekly"
     }
-    
 }
