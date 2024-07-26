@@ -4,7 +4,8 @@
             "auth_weekly",
             "auth_yearly"
         ],
-        "rate":1
+        "rate":1,
+        "buttonTrialText":"Try for Free"
     },
     "6474788506": {
         "app": "Habit Tracker",
