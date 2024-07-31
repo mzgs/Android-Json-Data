@@ -1,7 +1,7 @@
 {
     "6472447606": {
         "app": "Repost",
-        "DAILY_LIMIT": 9,
+        "DAILY_LIMIT": 7,
         "REPOST_DETAIL_INTERVAL_ADS": 2,
         "PARSE_INTERVAL_ADS": 2,
         "showAdInButtons": true,
