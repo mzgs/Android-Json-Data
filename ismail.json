@@ -5,6 +5,7 @@
             "auth_yearly"
         ],
         "rate":1,
+        "limit":0,
         "buttonTrialText":"Try for Free"
     },
     "6474788506": {
