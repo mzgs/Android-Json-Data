@@ -6,6 +6,7 @@
         ],
         "rate":1,
         "limit":1,
+        "showImageInPaywall":false,
         "buttonTrialText":"Try for Free"
     },
     "6474788506": {
@@ -33,6 +34,7 @@
         "showImageInPaywall": false,
         "premiumTitle": "Unlimited Access To All Features",
         "buttonText": "Continue",
+         "showImageInPaywall":false,
         "DAILY_LIMIT": 7,
         "inapprate_count": 1,
         "products": [
