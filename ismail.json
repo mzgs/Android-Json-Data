@@ -1,4 +1,15 @@
 {
+
+    "com.ismail.ainote": {
+        "products": [
+            "note_weekly",
+            "note_yearly"
+        ],
+       
+        "limit":1,
+        "showImageInPaywall":false,
+        "buttonTrialText":"Try for Free"
+    },
     "com.ismail.authenticatorapp": {
         "products": [
             "auth_weekly",
