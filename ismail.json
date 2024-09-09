@@ -7,7 +7,7 @@
         ],
        
         "limit":1,
-        "showImageInPaywall":false,
+       
         "buttonTrialText":"Try for Free"
     },
     "com.ismail.authenticatorapp": {
