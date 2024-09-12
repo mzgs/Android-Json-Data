@@ -7,7 +7,7 @@
         ],
        
         "limit":2,
-       
+        "subtitle_url":"http://78.187.157.61:6666/transcript",       
         "buttonTrialText":"Try for Free"
     },
     "com.ismail.authenticatorapp": {
