@@ -3,7 +3,7 @@
     "com.ismail.ainote": {
         "products": [
             "note_weekly",
-            "note_yearly_discount"
+            "note_yearly"
         ],
        
         "limit":2,
