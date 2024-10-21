@@ -17,7 +17,7 @@
         ],
         "rate":1,
         "limit":1,
-        "showDiscountAfterPaywall":true,
+        "showDiscountAfterPaywall":false,
         "showImageInPaywall":false,
         "buttonTrialText":"Try for Free"
     },
