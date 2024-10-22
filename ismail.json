@@ -5,7 +5,7 @@
             "note_weekly",
             "note_yearly"
         ],
-        "showDiscountAfterPaywall":false,       
+        "showDiscountAfterPaywall":true,       
         "limit":2,
         "subtitle_url":"http://87.106.86.41:9002/transcript",       
         "buttonTrialText":"Start Your Free Trial"
@@ -17,7 +17,7 @@
         ],
         "rate":1,
         "limit":1,
-        "showDiscountAfterPaywall":false,
+        "showDiscountAfterPaywall":true,
         "showImageInPaywall":false,
         "buttonTrialText":"Start Your Free Trial"
     },
