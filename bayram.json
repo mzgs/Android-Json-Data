@@ -74,7 +74,7 @@
         "app": "ai chat",
         "paywallImage": "black.webp",
         "chat_url": "https://api.mzgs.net/api.php?action=chatgpt-stream",
-        "chatgpt4HardLimit": 50,
+        "chatgpt4HardLimit": 100,
         "chatgpt4ImageHardLimit": 50,
         "sampler": "DPM++ 2M",
         "buttonTextTrial": "btn2",
