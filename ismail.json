@@ -19,10 +19,7 @@
         "buttonTrialText":"Start Your Free Trial"
     },
     "com.ismail.authenticatorapp": {
-        "products": [
-            "auth_weekly",
-            "auth_yearly"
-        ],
+       
         "rate":1,
         "limit":1,
         "showDiscountAfterPaywall":false,
