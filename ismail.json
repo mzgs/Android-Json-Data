@@ -11,10 +11,7 @@
         "buttonTrialText2":"Start Your Free Trial"
     },
     "com.ismail.ainote": {
-        "products": [
-            "note_weekly",
-            "note_yearly"
-        ],
+      
         "showDiscountAfterPaywall":false,       
         "limit":2,
         "subtitle_url":"http://87.106.86.41:9002/transcript",       
