@@ -36,6 +36,7 @@
         ],
         "rate":1,
         "limit":1,
+         "productTitleSuffix":"PRO",
         "showDiscountAfterPaywall":true,
         "showImageInPaywall":false,
         "buttonTrialText":"Try for $0.00",
