@@ -37,6 +37,8 @@
         "rate":1,
         "limit":1,
          "productTitleSuffix":"Premium",
+         "show3DaysInTrialTitle":true,
+         "show3DyasFreeLabel":false,
         "showDiscountAfterPaywall":true,
         "showImageInPaywall":false,
         "buttonTrialText":"Try for $0.00",
