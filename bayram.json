@@ -59,6 +59,7 @@
         "aspect_vertical_y": 1024,
         "aspect_horizontal_x": 1024,
         "aspect_horizontal_y": 768,
+        "use_home_server":false,
         "save_images": true,
         "home_server_api_urls": [
             "http://78.187.157.61:7860/sdapi/v1/txt2img"
