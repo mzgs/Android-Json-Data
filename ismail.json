@@ -35,7 +35,7 @@
             "auth_yearly_discount"
         ],
         "rate":1,
-        "limit":1,
+        "limit":0,
          "productTitleSuffix":"",
          "show3DaysInTrialTitle":true,
          "show3DyasFreeLabel":false,
