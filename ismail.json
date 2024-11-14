@@ -36,7 +36,7 @@
         ],
         "rate":1,
         "limit":1,
-         "productTitleSuffix":"Premium",
+         "productTitleSuffix":"",
          "show3DaysInTrialTitle":true,
          "show3DyasFreeLabel":false,
         "showImageInPaywall":false,
