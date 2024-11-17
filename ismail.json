@@ -28,7 +28,7 @@
     "com.ismail.authenticatorapp": {
          "products": [
             "auth_weekly",
-            "auth_yearly"
+            "authenticator_lifetime"
         ],
          "products_discount": [
             "auth_monthly",
@@ -42,7 +42,7 @@
         "showImageInPaywall":false,
         "buttonTrialText":"Try for $0.00",
         "buttonTrialText2":"Start Your Free Trial",
-        "showDiscountAfterPaywall":true
+        "showDiscountAfterPaywall":false
     },
     "6474788506": {
         "app": "Habit Tracker",
