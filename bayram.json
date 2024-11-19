@@ -45,7 +45,7 @@
         ],
         "show_ads": true,
         "SHOW_APPOPEN_ADS": true,
-        "DAILY_LIMIT": 0,
+        "DAILY_LIMIT": 9,
         "STEPS": 20,
         "premiumTitle": "pr5",
         "buttonText": "btn3",
