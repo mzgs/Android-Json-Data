@@ -34,7 +34,7 @@
             "auth_monthly",
             "auth_yearly_discount"
         ],
-        "rate":3,
+        "rate":1,
         "limit":3,
          "productTitleSuffix":"",
          "show3DaysInTrialTitle":true,
