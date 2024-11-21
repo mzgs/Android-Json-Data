@@ -42,7 +42,8 @@
         "showImageInPaywall":false,
         "buttonTrialText2":"Try for $0.00",
         "buttonTrialText":"Start Your Free Trial",
-        "showDiscountAfterPaywall":false
+        "showDiscountAfterPaywall":false,
+        "show_product_title_custom":false
     },
     "6474788506": {
         "app": "Habit Tracker",
