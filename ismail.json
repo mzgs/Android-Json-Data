@@ -28,11 +28,12 @@
     "com.ismail.authenticatorapp": {
          "products": [
             "auth_weekly",
-            "authenticator_lifetime"
+             "auth_yearly"
+            
         ],
          "products_discount": [
             "auth_monthly",
-            "auth_yearly_discount"
+            "authenticator_lifetime"
         ],
         "rate":1,
         "limit":3,
