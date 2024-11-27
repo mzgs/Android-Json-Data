@@ -41,6 +41,8 @@
          "show3DaysInTrialTitle":true,
          "show3DyasFreeLabel":false,
         "showImageInPaywall":false,
+         "paywallTiralTitle":"Try premium features for free",
+         "paywallNormalTitle":"Upgrade for Unlimited Access",
         "buttonTrialText":"Try for $0.00",
         "buttonTrialText2":"Start Your Free Trial",
         "showDiscountAfterPaywall":true,
