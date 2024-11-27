@@ -10,9 +10,9 @@
         "premiumTitle": "pr4",
         "buttonText": "btn2",
         "products": [
+            "repost_yearly_discount",
             "repost_weekly",
             "repost_yearly",
-            "repost_yearly_discount",
             "repost_weekly_discount"
            
            
