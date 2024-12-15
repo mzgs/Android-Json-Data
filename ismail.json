@@ -28,7 +28,7 @@
     "com.ismail.authenticatorapp": {
          "products": [
             "auth_weekly",
-             "auth_lifetime"
+             "authenticator_lifetime"
             
         ],
          "products_discount": [
