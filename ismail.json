@@ -1,7 +1,8 @@
 {
 
      "com.ismail.fbsave":{
-          "user_server":false
+          "user_server":false,
+          "safe":1.0
           
      },
      
