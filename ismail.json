@@ -2,7 +2,8 @@
 
      "com.ismail.fbsave":{
           "user_server":false,
-          "safe":1.1
+          "safe":1.1,
+          "products":["fb_weekly_discount","fb_lifetime"]
           
      },
      
