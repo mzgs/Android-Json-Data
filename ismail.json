@@ -5,7 +5,8 @@
           "safe":1.1,
           "products":["fb_weekly","fb_lifetime"],
           "products_discount":["fb_weekly_discount","fb_yearly_discount"],
-          "show_native_ads":true
+          "show_native_ads":true,
+          "showDiscountAfterPaywall":true
           
      },
      
