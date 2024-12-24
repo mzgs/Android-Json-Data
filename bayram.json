@@ -77,7 +77,7 @@
     "6503292056": {
         "app": "ai chat",
         "paywallImage": "black.webp",
-        "chat_url": "https://api.mzgs.net/api.php?action=chatgpt-stream",
+        "chat_url": "https://goapi.mzgs.net/chatgpt-stream",
         "chatgpt4HardLimit": 100,
         "chatgpt4ImageHardLimit": 50,
         "sampler": "DPM++ 2M",
