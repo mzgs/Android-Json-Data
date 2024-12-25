@@ -29,7 +29,7 @@
     "com.ismail.ainote": {
          "products": [
             "note_weekly",
-            "note_yearly"
+            "note_lifetime"
         ],
          "products_discount": [
             "note_weekly_discount",
