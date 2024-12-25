@@ -28,7 +28,7 @@
     },
     "com.ismail.ainote": {
          "products": [
-            "note_monthly",
+            "note_weekly",
             "note_yearly"
         ],
          "products_discount": [
