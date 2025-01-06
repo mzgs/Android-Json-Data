@@ -5,7 +5,7 @@
           "LIMIT":3,
           
          
-          "showDiscountAfterPaywall":true,
+          "showDiscountAfterPaywall":false,
           "buttonTrialText":"Try for $0.00",
             "showImageInPaywall":false
        
