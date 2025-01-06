@@ -1,5 +1,18 @@
 {
 
+       "com.ismail.bgremove2":{
+          
+          "LIMIT":3,
+          
+         
+          "showDiscountAfterPaywall":true,
+          "buttonTrialText":"Try for $0.00",
+            "showImageInPaywall":false
+       
+          
+     },
+
+     
      "com.ismail.fbsave":{
           "user_server":false,
           "server_url":"https://goapi.mzgs.net/server-facebook",
