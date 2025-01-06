@@ -4,6 +4,7 @@
           "user_server":false,
           "server_url":"https://goapi.mzgs.net/server-facebook",
            "safe":1.3,
+          "LIMIT":9,
           "products":["fb_weekly","fb_lifetime"],
           "products_discount":["fb_weekly_discount","fb_yearly_discount"],
           "show_native_ads":true,
