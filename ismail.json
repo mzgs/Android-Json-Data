@@ -4,7 +4,7 @@
           
           "LIMIT":3,
           
-         
+         "products":["bg2_weekly","bg2_lifetime"],
           "showDiscountAfterPaywall":false,
           "buttonTrialText":"Try for $0.00",
             "showImageInPaywall":false
