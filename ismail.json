@@ -14,7 +14,7 @@
 
      
      "com.ismail.fbsave":{
-          "user_server":false,
+          "user_server":true,
           "server_url":"https://goapi.mzgs.net/server-facebook",
            "safe":1.4,
           "LIMIT":9,
