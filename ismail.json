@@ -1,5 +1,8 @@
 {
 
+        "com.ismail.chatai":{
+              "products":["chatai_weekly","chatai_lifetime"]
+        },
        "com.ismail.bgremove2":{
           
           "LIMIT":3,
