@@ -1,87 +1,92 @@
 {
-
-        "com.ismail.chatai":{
-              "products":["chatai_weekly","chatai_lifetime"]
-        },
-       "com.ismail.bgremove2":{
-          
-          "LIMIT":3,
-          
-         "products":["bg2_weekly","bg2_lifetime"],
-          "products_discount":["bg2_weekly_discount","bg2_yearly_discount"],
-          "showDiscountAfterPaywall":true,
-          "buttonTrialText":"Try for $0.00",
-            "showImageInPaywall":false
-       
-          
-     },
-
-     
-     "com.ismail.fbsave":{
-          "user_server":false,
-          "server_url":"https://goapi.mzgs.net/server-facebook",
-           "safe":1.9,
-          "LIMIT":9,
-          "products":["fb_weekly","fb_lifetime"],
-          "products_discount":["fb_weekly_discount","fb_yearly_discount"],
-          "show_native_ads":true,
-          "showDiscountAfterPaywall":true,
-          "buttonTrialText":"Try for $0.00",
-        "buttonTrialText2":"Start Your Free Trial",
-       "interstitial_find":1,
-        "show_product_title_custom":true,
-          "price_text_type":"unit",
-          "show_paywall_on_find":true
-          
-     },
-     
-     "com.ismail.aistorygenerator": {
+    "com.ismail.chatai": {
+        "products": [
+            "chatai_weekly",
+            "chatai_lifetime"
+        ]
+    },
+    "com.ismail.bgremove2": {
+        "LIMIT": 3,
+        "products": [
+            "bg2_weekly",
+            "bg2_lifetime"
+        ],
+        "products_discount": [
+            "bg2_weekly_discount",
+            "bg2_yearly_discount"
+        ],
+        "showDiscountAfterPaywall": true,
+        "buttonTrialText": "Try for $0.00",
+        "showImageInPaywall": false
+    },
+    "com.ismail.fbsave": {
+        "user_server": false,
+        "server_url": "https://goapi.mzgs.net/server-facebook",
+        "safe": 1.9,
+        "LIMIT": 9,
+        "products": [
+            "fb_weekly",
+            "fb_lifetime"
+        ],
+        "products_discount": [
+            "fb_weekly_discount",
+            "fb_yearly_discount"
+        ],
+        "show_native_ads": true,
+        "showDiscountAfterPaywall": true,
+        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText2": "Start Your Free Trial",
+        "interstitial_find": 1,
+        "show_product_title_custom": true,
+        "price_text_type": "unit",
+        "show_paywall_on_find": true
+    },
+    "com.ismail.aistorygenerator": {
         "products": [
             "story_weekly",
             "story_yearly"
         ],
-        "showDiscountAfterPaywall":true,       
-        "limit":0,       
-        "buttonTrialText":"Try for $0.00",
-        "buttonTrialText2":"Start Your Free Trial"
+        "showDiscountAfterPaywall": true,
+        "limit": 0,
+        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText2": "Start Your Free Trial"
     },
     "com.ismail.ainote": {
-         "products": [
+        "products": [
             "note_weekly",
             "note_lifetime"
         ],
-         "products_discount": [
+        "products_discount": [
             "note_weekly_discount",
             "note_yearly_discount"
         ],
-        "showDiscountAfterPaywall":true,       
-        "limit":3,
-        "subtitle_url":"http://87.106.86.41:9002/transcript",       
-        "buttonTrialText":"Try for $0.00",
-        "buttonTrialText2":"Start Your Free Trial"
+        "showDiscountAfterPaywall": true,
+        "limit": 3,
+        "subtitle_url": "http://87.106.86.41:9002/transcript",
+        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText2": "Start Your Free Trial"
     },
     "com.ismail.authenticatorapp": {
-         "products": [
+        "products": [
             "auth_weekly",
-             "authenticator_lifetime"
-            
+            "authenticator_lifetime"
         ],
-         "products_discount": [
+        "products_discount": [
             "auth_weekly_discount",
             "auth_yearly_discount"
         ],
-        "rate":1,
-        "limit":3,
-         "productTitleSuffix":"",
-         "show3DaysInTrialTitle":true,
-         "show3DyasFreeLabel":false,
-        "showImageInPaywall":false,
-         "paywallTiralTitle":"Try premium features for free",
-         "paywallNormalTitle":"Upgrade for Unlimited Access",
-        "buttonTrialText":"Try for $0.00",
-        "buttonTrialText2":"Start Your Free Trial",
-        "showDiscountAfterPaywall":true,
-        "show_product_title_custom":true
+        "rate": 1,
+        "limit": 3,
+        "productTitleSuffix": "",
+        "show3DaysInTrialTitle": true,
+        "show3DyasFreeLabel": false,
+        "showImageInPaywall": false,
+        "paywallTiralTitle": "Try premium features for free",
+        "paywallNormalTitle": "Upgrade for Unlimited Access",
+        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText2": "Start Your Free Trial",
+        "showDiscountAfterPaywall": true,
+        "show_product_title_custom": true
     },
     "6474788506": {
         "app": "Habit Tracker",
