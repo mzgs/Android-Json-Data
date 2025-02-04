@@ -1,5 +1,17 @@
 {
     "com.ismail.chatai": {
+        "safe": 1.1,
+         "products": [
+            "chatai_weekly",
+            "chatai_yearly"
+        ],
+        "products_discount": [
+            "chatai_weekly_discount",
+            "chatai_yearly_discount"
+        ],
+         "showDiscountAfterPaywall": true,
+         "buttonTrialText": "Try for $0.00",
+        "show_paywall_on_chat":true
          
     },
     "com.ismail.bgremove2": {
