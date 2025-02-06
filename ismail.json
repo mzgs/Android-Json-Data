@@ -1,6 +1,6 @@
 {
     "com.ismail.chatai": {
-        "safe": 1.2,
+        "safe": 1.3,
          "products": [
             "chatai_weekly",
             "chatai_yearly"
