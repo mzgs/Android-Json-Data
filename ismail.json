@@ -51,6 +51,7 @@
         "show_paywall_on_find": true,
         "app.cross_promotion":true,
         "app.name":"Chat AI Chatbot Assistant+",
+        "app.desc":"Chat AI Chatbot Assistant+",
         "app.image":"https://github.com/mzgs/Android-Json-Data/blob/master/images/chatpaywall2_blue.png?raw=true",
         "app.url":"https://apps.apple.com/us/app/id6741394471"
         
