@@ -49,7 +49,7 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion":true,
+        "app.cross_promotion":false,
         "app.name":"Chat AI Chatbot Assistant+",
         "app.desc":"Chat AI Chatbot Assistant+",
         "app.image":"https://github.com/mzgs/Android-Json-Data/blob/master/images/chatpaywall2_blue.png?raw=true",
