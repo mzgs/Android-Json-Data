@@ -1,6 +1,7 @@
 {
     "com.ismail.chatai": {
         "safe": 1.4,
+        "paywall_image":"chatpaywall2_black",
         "products": [
             "chatai_weekly",
             "chatai_yearly"
