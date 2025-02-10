@@ -1,19 +1,18 @@
 {
     "com.ismail.chatai": {
         "safe": 1.4,
-         "products": [
+        "products": [
             "chatai_weekly",
-            "chatai_yearly",
-             "chatai_lifetime"
+            "chatai_yearly"
         ],
         "products_discount": [
             "chatai_weekly_discount",
-            "chatai_yearly_discount"
+            "chatai_yearly_discount",
+            "chatai_lifetime"
         ],
-         "showDiscountAfterPaywall": true,
-         "buttonTrialText": "Try for $0.00",
-        "show_paywall_on_chat":true
-         
+        "showDiscountAfterPaywall": true,
+        "buttonTrialText": "Try for $0.00",
+        "show_paywall_on_chat": true
     },
     "com.ismail.bgremove2": {
         "LIMIT": 3,
@@ -50,12 +49,11 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion":false,
-        "app.name":"Chat AI Chatbot Assistant+",
-        "app.desc":"Chat AI Chatbot Assistant+",
-        "app.image":"https://github.com/mzgs/Android-Json-Data/blob/master/images/chatpaywall2_blue.png?raw=true",
-        "app.url":"https://apps.apple.com/us/app/id6741394471"
-        
+        "app.cross_promotion": false,
+        "app.name": "Chat AI Chatbot Assistant+",
+        "app.desc": "Chat AI Chatbot Assistant+",
+        "app.image": "https://github.com/mzgs/Android-Json-Data/blob/master/images/chatpaywall2_blue.png?raw=true",
+        "app.url": "https://apps.apple.com/us/app/id6741394471"
     },
     "com.ismail.aistorygenerator": {
         "products": [
