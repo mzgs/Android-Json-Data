@@ -32,7 +32,7 @@
     "com.ismail.fbsave": {
         "user_server": false,
         "server_url": "https://goapi.mzgs.net/server-facebook",
-        "safe": 1.9,
+        "safe": 2.0,
         "LIMIT": 9,
         "products": [
             "fb_weekly",
