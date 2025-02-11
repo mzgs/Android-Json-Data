@@ -50,10 +50,10 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion": false,
+        "app.cross_promotion": true,
         "app.name": "Chat AI Chatbot Assistant+",
-        "app.desc": "Chat AI Chatbot Assistant+",
-        "app.image": "https://github.com/mzgs/Android-Json-Data/blob/master/images/chatpaywall2_blue.png?raw=true",
+        "app.desc": "Access to ChatGPT, Deepseek and Gemini",
+        "app.image": "https://github.com/mzgs/Android-Json-Data/blob/master/images/crosschatai.png?raw=true",
         "app.url": "https://apps.apple.com/us/app/id6741394471"
     },
     "com.ismail.aistorygenerator": {
