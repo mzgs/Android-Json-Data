@@ -50,7 +50,7 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion": true,
+        "app.cross_promotion": false,
         "app.name": "Chat AI Chatbot Assistant+",
         "app.desc": "Access to ChatGPT, Deepseek and Gemini",
         "app.image": "https://github.com/mzgs/Android-Json-Data/blob/master/images/crosschatai.png?raw=true",
