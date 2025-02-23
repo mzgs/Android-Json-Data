@@ -13,7 +13,8 @@
         ],
         "showDiscountAfterPaywall": true,
         "buttonTrialText": "Try for $0.00",
-        "show_paywall_on_chat": true
+        "show_paywall_on_chat": true,
+        "paywallColorScheme":"light"
     },
     "com.ismail.bgremove2": {
         "LIMIT": 3,
