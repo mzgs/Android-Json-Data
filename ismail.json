@@ -19,6 +19,7 @@
     },
     "com.ismail.bgremove2": {
         "LIMIT": 3,
+        "ALL_PREMIUM":true,
         "products": [
             "bg2_weekly",
             "bg2_lifetime"
@@ -35,6 +36,7 @@
         "user_server": false,
         "server_url": "https://goapi.mzgs.net/server-facebook",
         "safe": 2.0,
+        "ALL_PREMIUM":true,
         "LIMIT": 9,
         "products": [
             "fb_weekly",
