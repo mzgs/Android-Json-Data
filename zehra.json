@@ -1,9 +1,9 @@
 {
 
- "com.zehra.zehraiosvideodownloader":{
+ "com.zehra.videodownloader":{
       "paywallColorScheme":"dark",
   "paywall_image":"paywall2",
-      "safe":1.01
+      "safe":0.9
     
  }
 
