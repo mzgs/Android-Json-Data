@@ -5,6 +5,12 @@
   "paywall_image":"paywall2",
       "safe":1.05
     
+ },
+  "com.zehra.tiktoksaver":{
+      "paywallColorScheme":"dark",
+  
+      "safe":1.05
+    
  }
 
 }
