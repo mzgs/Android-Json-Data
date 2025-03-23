@@ -6,6 +6,7 @@
     },
     "com.zehra.tiktoksaver": {
         "paywallColorScheme": "dark",
+        "show_social_list":true,
         "safe": 1.1,
          "products": [
             "zehratik_weekly",
