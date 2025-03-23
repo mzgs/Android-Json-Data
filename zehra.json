@@ -8,7 +8,7 @@
         "paywallColorScheme": "dark",
         "show_social_list":true,
         "title":"Video Downloader",
-        "safe": 1.1,
+        "safe": 1.2,
          "products": [
             "zehratik_weekly",
             "zehratik_yearly",
