@@ -6,6 +6,17 @@
     },
     "com.zehra.tiktoksaver": {
         "paywallColorScheme": "dark",
-        "safe": 1.1
+        "safe": 1.1,
+         "products": [
+            "zehratik_weekly",
+            "zehratik_yearly",
+             "zehratik_lifetime"
+        ],
+        "products_discount": [
+            "zehratik_weekly_discount",
+            "zehratik_yearly_discount"
+        
+        ],
+        "main_paywall":"PaywallViewBoxStyle"
     }
 }
