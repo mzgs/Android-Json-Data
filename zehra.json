@@ -20,6 +20,8 @@
             "zehratik_yearly_discount"
         
         ],
-        "main_paywall":"PaywallViewBoxStyle"
+        "main_paywall":"PaywallViewBoxStyle",
+        "interstitial_show_collections":1,
+        "interstitial_show_history":1
     }
 }
