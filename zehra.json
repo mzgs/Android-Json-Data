@@ -17,6 +17,7 @@
         ],
         "products_discount": [
             "zehratik_weekly_discount",
+            "zehratik_monthly",
             "zehratik_yearly_discount"
         
         ],
