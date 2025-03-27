@@ -9,7 +9,7 @@
          "paywall_image":  "paywall_video_social",
         "show_social_list":true,
         "title":"Video Downloader",
-        "safe": 1.3,
+        "safe": 1.4,
          "products": [
             "zehratik_weekly",
             "zehratik_yearly",
