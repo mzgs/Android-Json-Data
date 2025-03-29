@@ -5,6 +5,7 @@
         "safe": 1.05
     },
     "com.zehra.tiktoksaver": {
+        
         "paywallColorScheme": "dark",
          "paywall_image":  "paywall_video_social",
         "show_social_list":true,
@@ -21,7 +22,7 @@
             "zehratik_yearly_discount"
         
         ],
-        "main_paywall":"PaywallViewBoxStyle",
+        "main_paywall":"PaywallViewListStyle",
         "interstitial_show_collections":1,
         "interstitial_show_history":1,
         "interstitial_download":2,
