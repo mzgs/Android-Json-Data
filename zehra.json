@@ -7,7 +7,7 @@
     "com.zehra.tiktoksaver": {
         
         "paywallColorScheme": "dark",
-         "paywall_image":  "paywall_video_social",
+         "paywall_image":  "paywall",
         "show_social_list":true,
         "title":"Video Downloader",
         "safe": 1.4,
