@@ -8,7 +8,7 @@
         
         "paywallColorScheme": "dark",
          "paywall_image":  "paywall",
-        "DAILY_LIMIT":2,
+        "DAILY_LIMIT":9,
         "show_social_list":true,
         "title":"Video Downloader",
         "safe": 1.4,
