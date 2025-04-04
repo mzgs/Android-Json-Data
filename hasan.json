@@ -10,7 +10,8 @@
   },
 
   "com.hasan.cartoonmakes":{
-    "safe":1.05
+    "safe":1.05,
+     "showDiscountAfterPaywall": false
   }
 
   
