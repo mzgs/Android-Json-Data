@@ -9,8 +9,8 @@
         "paywallColorScheme": "dark",
          "paywall_image":  "paywall",
         "DAILY_LIMIT":9,
-        "show_social_list":true,
-        "title":"Video Downloader",
+        "show_social_list":false,
+        "title":"Tiktok Saver",
         "safe": 1.4,
          "products": [
             "zehratik_weekly",
