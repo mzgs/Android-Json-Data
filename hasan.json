@@ -11,7 +11,8 @@
 
   "com.hasan.cartoonmakes":{
     "safe":1.1,
-     "showDiscountAfterPaywall": false
+     "showDiscountAfterPaywall": false,
+    "paywall_image":"paywall2"
   }
 
   
