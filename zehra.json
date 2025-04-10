@@ -32,7 +32,7 @@
         "interstitial_download":2,
         "showAppOpen":false,
 
-    "show_app_ad":true,
+    "show_app_ad":false,
         "ad.title":"repost for instagram",
     "ad.subtitle":"save reel stories",
     "ad.detail":"get post and reels save them",
