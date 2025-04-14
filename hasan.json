@@ -12,6 +12,7 @@
         "paywall_image": "paywall2"
     },
     "com.hasan.hasaniosinsaver": {
+        "show_url_img_in_paywall":false,
         "paywall_img_url":"https://play-lh.googleusercontent.com/MgmE29ysbYTeMgY_0xYuAfkVhn2kxzTHRCcMDFGjp4Yi2ivNKEBlzvqd_2rv5fqEuGg",
         "show_app_ad": false,
         "ad.title": "repost for instagram",
