@@ -13,6 +13,7 @@
     },
     "com.hasan.hasaniosinsaver": {
         "safe":1.05,
+        "paywall_image":"paywall2",
         "show_url_img_in_paywall":false,
         "paywall_img_url":"https://play-lh.googleusercontent.com/MgmE29ysbYTeMgY_0xYuAfkVhn2kxzTHRCcMDFGjp4Yi2ivNKEBlzvqd_2rv5fqEuGg",
         "show_app_ad": false,
