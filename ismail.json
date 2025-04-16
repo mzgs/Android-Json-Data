@@ -54,11 +54,11 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion": false,
-        "app.name": "Chat AI Chatbot Assistant+",
-        "app.desc": "Access to ChatGPT, Deepseek and Gemini",
-        "app.image": "https://github.com/mzgs/Android-Json-Data/blob/master/images/crosschatai.png?raw=true",
-        "app.url": "https://apps.apple.com/us/app/id6741394471"
+        "app.cross_promotion": true,
+        "app.name": "InstaSaver: Save Reel & Video",
+        "app.desc": "Downlaod instagram videos & posts",
+        "app.image": "https://raw.githubusercontent.com/mzgs/Android-Json-Data/refs/heads/master/images/insaver.webp",
+        "app.url": "https://apps.apple.com/us/app/id6744612514"
     },
     "com.ismail.aistorygenerator": {
         "products": [
