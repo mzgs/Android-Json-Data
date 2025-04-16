@@ -54,7 +54,7 @@
         "show_product_title_custom": true,
         "price_text_type": "unit",
         "show_paywall_on_find": true,
-        "app.cross_promotion": true,
+        "app.cross_promotion": false,
         "app.name": "InstaSaver: Save Reel & Video",
         "app.desc": "Downlaod instagram videos & posts",
         "app.image": "https://raw.githubusercontent.com/mzgs/Android-Json-Data/refs/heads/master/images/insaver.webp",
