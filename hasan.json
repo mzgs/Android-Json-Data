@@ -29,6 +29,8 @@
             "insaver_weekly_discount",
             "insaver_yearly_discount"
         ],
+        "show_paywall_on_save":true,
+        "show_paywall_on_save_count":1,
         "paywall_image": "paywall2",
         "show_url_img_in_paywall": false,
         "paywall_img_url": "https://play-lh.googleusercontent.com/MgmE29ysbYTeMgY_0xYuAfkVhn2kxzTHRCcMDFGjp4Yi2ivNKEBlzvqd_2rv5fqEuGg",
