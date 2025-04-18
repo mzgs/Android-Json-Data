@@ -30,6 +30,7 @@
             "insaver_weekly_discount",
             "insaver_yearly_discount"
         ],
+        "buttonTrialText": "Try for $0.00",
         "show_paywall_on_save":true,
         "show_paywall_on_save_count":1,
         "paywall_image": "paywall2",
