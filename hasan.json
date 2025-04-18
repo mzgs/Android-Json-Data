@@ -31,6 +31,7 @@
             "insaver_yearly_discount"
         ],
         "buttonTrialText": "Try for $0.00",
+        "paywallColorScheme":"dark",
         "show_paywall_on_save":true,
         "show_paywall_on_save_count":1,
         "paywall_image": "paywall2",
