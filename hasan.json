@@ -23,6 +23,7 @@
         "safe": 1.1,
         "products": [
             "insaver_weekly",
+            "insaver_yearly",
             "insaver_lifetime"
         ],
         "products_discount": [
