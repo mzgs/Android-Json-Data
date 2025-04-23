@@ -47,7 +47,7 @@
         
         "showUnitPrice":false,
         "showCloseButton":true,
-        "buttonTrialText": "Try Free and Subscribe",
+        "buttonTrialText": "Continue",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2"
 
