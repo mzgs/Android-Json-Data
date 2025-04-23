@@ -32,22 +32,23 @@
             "insaver_weekly_discount",
             "insaver_yearly_discount"
         ],
+        "showreward_on_save_one":true,
+        "show_paywall_on_save_one":true,
+        "show_paywall_on_collections":true,
+        "show_paywall_on_history":true,
+        "show_paywall_on_collection_detail":true,
+        "show_ads_on_history":true,
+
+        "show_paywall_on_find":true,
+        "show_paywall_on_find_count":1,
+        "interstitial_find":1,
+        
         "showUnitPrice":false,
         "showCloseButton":true,
         "buttonTrialText": "Try for Free",
         "paywallColorScheme":"dark",
-        "show_paywall_on_find":true,
-        "show_paywall_on_find_count":1,
-        "show_paywall_on_save":true,
-        "show_paywall_on_save_count":1,
         "paywall_image": "paywall2",
-        "show_url_img_in_paywall": false,
-        "paywall_img_url": "https://play-lh.googleusercontent.com/MgmE29ysbYTeMgY_0xYuAfkVhn2kxzTHRCcMDFGjp4Yi2ivNKEBlzvqd_2rv5fqEuGg",
-        "show_app_ad": false,
-        "ad.title": "repost for instagram",
-        "ad.subtitle": "save reel stories",
-        "ad.detail": "get post and reels save them",
-        "ad.url": "https://apps.apple.com/us/app/instdown-repost-instant-save/id1591282288",
-        "ad.icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/8e/ad/928ead74-e171-5497-9220-2a8fa4e6203a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/150x150bb.jpg"
+
+
     }
 }
