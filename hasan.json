@@ -47,6 +47,7 @@
         
         "showUnitPrice":false,
         "showCloseButton":true,
+        "paywallNormalTitle": "Get Full Access",
         "buttonTrialText": "Unlock Premium",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2"
