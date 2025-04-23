@@ -48,7 +48,8 @@
         "showUnitPrice":false,
         "showCloseButton":true,
         "paywallNormalTitle": "Get Full Access",
-        "buttonTrialText": "Unlock Premium",
+        "paywallTrialTitle":"Try Premium Free",
+        "buttonTrialText": "Try for $0.00",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2"
 
