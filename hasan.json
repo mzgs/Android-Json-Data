@@ -33,7 +33,7 @@
         ],
         "showUnitPrice":false,
         "showCloseButton":true,
-        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText": "Try for Free",
         "paywallColorScheme":"dark",
         "show_paywall_on_find":true,
         "show_paywall_on_find_count":1,
