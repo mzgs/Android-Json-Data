@@ -42,6 +42,8 @@
         "show_paywall_on_find":true,
         "show_paywall_on_find_count":1,
         "interstitial_find":1,
+
+        "xColor": "#DDDDDD",
         
         "showUnitPrice":false,
         "showCloseButton":true,
