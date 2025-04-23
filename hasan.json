@@ -47,7 +47,7 @@
         
         "showUnitPrice":false,
         "showCloseButton":true,
-        "buttonTrialText": "Continue",
+        "buttonTrialText": "Unlock Premium",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2"
 
