@@ -44,7 +44,7 @@
         "show_paywall_on_find_count":1,
         "interstitial_find":1,
 
-        "xColor": "#DDDDDD",
+        "xColor": "#CCCCCC",
         
         "showUnitPrice":false,
         "showCloseButton":true,
