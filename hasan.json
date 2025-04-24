@@ -51,7 +51,8 @@
         "paywallTrialTitle":"Try Premium Free",
         "buttonTrialText": "Try for $0.00",
         "paywallColorScheme":"dark",
-        "paywall_image": "paywall2"
+        "paywall_image": "paywall2",
+        "allowed_domains": ["instagram.com","facebook.com","tiktok.com","fb.watch","youtube.com","youtu.be"]
 
 
     }
