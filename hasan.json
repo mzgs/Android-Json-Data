@@ -21,8 +21,9 @@
     },
     "com.hasan.hasaniosinsaver": {
         "safe": 1.2,
-        "main_paywall":"PaywallViewStartTrial",
+        "main_paywall":"PaywallViewListStyle",
         "discount_paywall":"PaywallViewDiscount2",
+        "show3DaysFreeProductTitle":true,
         "products": [
             "insaver_weekly",
             "insaver_yearly",
@@ -49,7 +50,7 @@
         "showCloseButton":true,
         "paywallNormalTitle": "Get Full Access",
         "paywallTrialTitle":"Try Premium Free",
-        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText": "Try for Free",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2",
         "allowed_domains": ["instagram.com","facebook.com","tiktok.com","fb.watch","youtube.com","youtu.be"]
