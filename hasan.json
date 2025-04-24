@@ -21,7 +21,7 @@
     },
     "com.hasan.hasaniosinsaver": {
         "safe": 1.2,
-        "main_paywall":"box",
+        "main_paywall":"PaywallViewStartTrial",
         "discount_paywall":"PaywallViewDiscount2",
         "products": [
             "insaver_weekly",
