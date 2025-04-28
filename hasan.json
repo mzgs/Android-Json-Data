@@ -20,7 +20,7 @@
         ]
     },
     "com.hasan.hasaniosinsaver": {
-        "safe": 0.9,
+        "safe": 1.2,
         "main_paywall":"PaywallViewListStyle",
         "discount_paywall":"PaywallViewDiscount2",
         "show3DaysFreeProductTitle":true,
