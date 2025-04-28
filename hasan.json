@@ -56,6 +56,7 @@
         "buttonTrialText": "Try for Free",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2",
+        "only_use_remote_urls": ["instagram.com"],
         "allowed_domains": ["instagram.com","facebook.com","tiktok.com","fb.watch","youtube.com","youtu.be"]
 
 
