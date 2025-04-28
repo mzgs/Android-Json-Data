@@ -34,16 +34,16 @@
             "insaver_yearly_discount"
         ],
         
-        "showreward_on_save_one":false,
-        "show_paywall_on_save_one":false,
+        "showreward_on_save_one":true,
+        "show_paywall_on_save_one":true,
         
-        "show_paywall_on_history":false,
-         "show_ads_on_history":false,
+        "show_paywall_on_history":true,
+         "show_ads_on_history":true,
 
-        "show_paywall_on_collections":false,
-        "show_paywall_on_collection_detail":false,
+        "show_paywall_on_collections":true,
+        "show_paywall_on_collection_detail":true,
        
-        "show_paywall_on_find":false,
+        "show_paywall_on_find":true,
         "show_paywall_on_find_count":1,
         "interstitial_find":1,
 
