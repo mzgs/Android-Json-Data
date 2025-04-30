@@ -26,7 +26,7 @@
         "show3DaysFreeProductTitle":true,
         "products": [
             "insaver_weekly",
-            "insaver_yearly",
+            "insaver_monthly",
             "insaver_lifetime"
         ],
         "products_discount": [
