@@ -54,7 +54,7 @@
         "showCloseButton":true,
         "paywallNormalTitle": "Get Full Access",
         "paywallTrialTitle":"Try Premium Free",
-        "buttonTrialText": "Try for $0.00",
+        "buttonTrialText": "Try for Free",
         "paywallColorScheme":"dark",
         "paywall_image": "paywall2",
      
