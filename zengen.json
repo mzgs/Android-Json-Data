@@ -1,8 +1,8 @@
 {
     "com.zengen.ioscleaner": {
-        "safe": 1.05,
+        "safe": 1.1,
         "start_paywall": "PaywallViewVideo",
-        "products2": [
+        "products": [
             "cleaner_weekly",
             "cleaner_lifetime"
         ]
