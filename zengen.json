@@ -1,6 +1,6 @@
 {
     "com.zengen.ioscleaner": {
-        "safe": 1.1,
+        "safe": 1.2,
         "start_paywall": "PaywallViewListStyle",
         "products": [
             "cleaner_weekly",
