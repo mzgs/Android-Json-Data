@@ -23,7 +23,7 @@
         "safe": 1.3,
         "DAILY_LIMIT":15,
         "main_paywall":"PaywallViewStartTrial",
-        "discount_paywall":"PaywallViewDiscount3",
+        "discount_paywall":"PaywallViewDiscounted",
         "show3DaysFreeProductTitle":true,
         "showDiscountAfterPaywall":true,
         "products": [
