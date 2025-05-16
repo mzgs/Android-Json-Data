@@ -1,6 +1,6 @@
 {
     "com.zengen.ioscleaner": {
-        "safe": 1.4,
+        "safe": 1.5,
         "start_paywall": "PaywallViewTrialDates",
         "show_video_in_paywall_start": true,
         "showDiscountAfterPaywall": true,
