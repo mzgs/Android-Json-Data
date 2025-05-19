@@ -21,5 +21,9 @@
         "show_paywall_on_video_compress_count": 1,
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
-    }
+    },
+      "com.zengeniosainote": {
+        "safe": 1.05
+
+      }
 }
