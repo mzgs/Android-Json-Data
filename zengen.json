@@ -23,7 +23,12 @@
         "show_ads_on_homepage_videos_tapped": true
     },
       "com.zengeniosainote": {
-        "safe": 1.05
+        "safe": 1.05,
+            "products": [
+            "note_weekly",
+            "note_yearly",
+            "note_lifetime"
+        ]
 
       }
 }
