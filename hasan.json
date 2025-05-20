@@ -25,9 +25,9 @@
         "main_paywall":"PaywallViewStartTrial",
         "discount_paywall":"PaywallViewDiscounted",
         "show3DaysFreeProductTitle":true,
-        "showDiscountAfterPaywall":false,
+        "showDiscountAfterPaywall":true,
         "products": [
-            "insaver_weekly_discount",
+            "insaver_weekly",
             "insaver_yearly_discount",
             "insaver_lifetime"
         ],
