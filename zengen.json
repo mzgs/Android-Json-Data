@@ -24,6 +24,8 @@
     },
       "com.zengen.ainotetaker": {
         "safe": 1.05,
+           "paywallTrialTitle":"Try Premium Free",
+        "buttonTrialText": "Try for Free",
             "products": [
             "ainote_weekly",
             "ainote_yearly"
