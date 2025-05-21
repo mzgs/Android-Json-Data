@@ -12,7 +12,7 @@
             "cleaner_weekly_discount",
             "cleaner_yearly_discount"
         ],
-        "paywall_comment_trial_title":"Start my 7-day free trial",
+        "paywall_comment_trial_title": "Start my 7-day free trial",
         "show_paywall_on_duplicate_photos_delete": true,
         "show_paywall_on_duplicate_photos_delete_count": 1,
         "show_paywall_on_similar_photos_delete": true,
@@ -22,15 +22,14 @@
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
     },
-      "com.zengen.ainotetaker": {
+    "com.zengen.ainotetaker": {
         "safe": 1.05,
-           "paywallTrialTitle":"Try Premium Free",
+        "start_paywall": "PaywallViewStartTrial",
+        "paywallTrialTitle": "Try Premium Free",
         "buttonTrialText": "Try for Free",
-            "products": [
+        "products": [
             "ainote_weekly",
             "ainote_yearly"
-            
         ]
-
-      }
+    }
 }
