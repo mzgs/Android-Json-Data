@@ -25,9 +25,9 @@
       "com.zengen.ainotetaker": {
         "safe": 1.05,
             "products": [
-            "note_weekly",
-            "note_yearly",
-            "note_lifetime"
+            "ainote_weekly",
+            "ainote_yearly"
+            
         ]
 
       }
