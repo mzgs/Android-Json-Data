@@ -23,13 +23,20 @@
         "show_ads_on_homepage_videos_tapped": true
     },
     "com.zengen.ainotetaker": {
-        "safe": 1.05,
+        "safe": 1.1,
         "start_paywall": "PaywallViewStartTrial",
         "paywallTrialTitle": "Try Premium Free",
-        "buttonTrialText": "Try for Free",
+        "buttonTrialText": "Try Free",
+        "main_paywall": "PaywallViewStartTrial",
+        "discount_paywall": "PaywallViewDiscountList",
+        "showDiscountAfterPaywall": true,
         "products": [
             "ainote_weekly",
             "ainote_yearly"
+        ],
+        "products_discount": [
+            "ainote_weekly_discount",
+            "ainote_yearly_discount"
         ]
     }
 }
