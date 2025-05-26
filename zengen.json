@@ -23,7 +23,7 @@
         "show_ads_on_homepage_videos_tapped": true
     },
     "com.zengen.ainotetaker": {
-        "safe": 1.1,
+        "safe": 1.2,
         "start_paywall": "PaywallViewStartTrial",
         "paywallTrialTitle": "Try Premium Free",
         "buttonTrialText": "Try Free",
