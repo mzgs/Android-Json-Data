@@ -41,7 +41,7 @@
     },
     "com.zengen.cleanstorage": {
         "safe": 1.05,
-        "start_paywall": "PaywallViewTrialDates",
+        "start_paywall": "PaywallViewStartTrial",
         "show_video_in_paywall_start": true,
         "showDiscountAfterPaywall": false,
         "products": [
