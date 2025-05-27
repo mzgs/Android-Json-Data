@@ -38,10 +38,8 @@
             "ainote_weekly_discount",
             "ainote_yearly_discount"
         ]
-    }
-    ,
-
-     "com.zengen.cleanstorage": {
+    },
+    "com.zengen.cleanstorage": {
         "safe": 1.05,
         "start_paywall": "PaywallViewTrialDates",
         "show_video_in_paywall_start": true,
@@ -63,5 +61,5 @@
         "show_paywall_on_video_compress_count": 1,
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
-    },
+    }
 }
