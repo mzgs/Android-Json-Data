@@ -45,12 +45,12 @@
         "show_video_in_paywall_start": true,
         "showDiscountAfterPaywall": false,
         "products": [
-            "cleaner_weekly",
-            "cleaner_lifetime"
+            "cleanfast_weekly",
+            "cleanfast_lifetime"
         ],
         "products_discount": [
-            "cleaner_weekly_discount",
-            "cleaner_yearly_discount"
+            "cleanfast_weekly_discount",
+            "cleanfast_yearly_discount"
         ],
         "paywall_comment_trial_title": "Start my 7-day free trial",
         "show_paywall_on_duplicate_photos_delete": true,
