@@ -39,4 +39,29 @@
             "ainote_yearly_discount"
         ]
     }
+    ,
+
+     "com.zengen.cleanstorage": {
+        "safe": 1.05,
+        "start_paywall": "PaywallViewTrialDates",
+        "show_video_in_paywall_start": true,
+        "showDiscountAfterPaywall": true,
+        "products": [
+            "cleaner_weekly",
+            "cleaner_lifetime"
+        ],
+        "products_discount": [
+            "cleaner_weekly_discount",
+            "cleaner_yearly_discount"
+        ],
+        "paywall_comment_trial_title": "Start my 7-day free trial",
+        "show_paywall_on_duplicate_photos_delete": true,
+        "show_paywall_on_duplicate_photos_delete_count": 1,
+        "show_paywall_on_similar_photos_delete": true,
+        "show_paywall_on_similar_photos_delete_count": 1,
+        "show_paywall_on_video_compress": true,
+        "show_paywall_on_video_compress_count": 1,
+        "show_ads_on_homepage_photos_tapped": true,
+        "show_ads_on_homepage_videos_tapped": true
+    },
 }
