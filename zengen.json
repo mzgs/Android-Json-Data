@@ -45,7 +45,7 @@
         "safe": 1.05,
         "start_paywall": "PaywallViewTrialDates",
         "show_video_in_paywall_start": true,
-        "showDiscountAfterPaywall": true,
+        "showDiscountAfterPaywall": false,
         "products": [
             "cleaner_weekly",
             "cleaner_lifetime"
