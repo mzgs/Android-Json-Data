@@ -52,7 +52,8 @@
             "cleanfast_weekly_discount",
             "cleanfast_yearly_discount"
         ],
-        "paywall_comment_trial_title": "Start my 7-day free trial",
+        "buttonTrialText": "Try Free",
+        "paywall_comment_trial_title": "Try Free",
         "show_paywall_on_duplicate_photos_delete": true,
         "show_paywall_on_duplicate_photos_delete_count": 1,
         "show_paywall_on_similar_photos_delete": true,
