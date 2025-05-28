@@ -40,7 +40,7 @@
         ]
     },
     "com.zengen.cleanstorage": {
-        "safe": 1.05,
+        "safe": 1.1,
         "start_paywall": "PaywallViewStartTrial",
         "show_video_in_paywall_start": true,
         "showDiscountAfterPaywall": false,
