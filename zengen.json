@@ -62,5 +62,12 @@
         "show_paywall_on_video_compress_count": 1,
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
-    }
+    },
+      "com.zengen.plantidentifier": {
+        "safe": 1.05,
+        "start_paywall": "PaywallViewStartTrial",
+        "paywallTrialTitle": "Try Premium Free",
+        "buttonTrialText": "Try Free",
+        "main_paywall": "PaywallViewStartTrial"
+      }
 }
