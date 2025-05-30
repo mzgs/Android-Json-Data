@@ -68,6 +68,7 @@
         "start_paywall": "PaywallViewStartTrial",
         "paywallTrialTitle": "Try Premium Free",
         "buttonTrialText": "Try Free",
-        "main_paywall": "PaywallViewStartTrial"
+        "main_paywall": "PaywallViewStartTrial",
+        "paywallColorScheme":"dark"
       }
 }
