@@ -1,6 +1,6 @@
 {
     "com.mehmet.fbsaver": {
-        "safe": 0.05,
+        "safe": 1.05,
         "products": [
             "fbsaver_monthly",
             "fbsaver_yearly"
