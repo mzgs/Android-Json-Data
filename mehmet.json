@@ -1,3 +1,10 @@
 {
+    "com.mehmet.fbsaver": {
+        "safe": 1.05,
+        "products": [
+            "fbsaver_monthly",
+            "fbsaver_yearly"
+        ]
+    }
   
 }
