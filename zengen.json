@@ -63,12 +63,16 @@
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
     },
-      "com.zengen.plantidentifier": {
+      "com.zengen.plantid": {
         "safe": 1.05,
-        "start_paywall": "PaywallViewStartTrial",
+        "start_paywall": "PaywallViewToggleTrial",
         "paywallTrialTitle": "Try Premium Free",
         "buttonTrialText": "Try Free",
         "main_paywall": "PaywallViewStartTrial",
-        "paywallColorScheme":"dark"
+        "paywallColorScheme":"dark",
+           "products": [
+            "plant2_weekly",
+            "plant2_yearly"
+        ]
       }
 }
