@@ -6,6 +6,11 @@
             "fbsaver_monthly",
             "fbsaver_yearly"
         ]
+    },
+     "com.mehmet.fbsave": {
+        "safe": 0.9
+       
+       
     }
   
 }
