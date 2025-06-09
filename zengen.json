@@ -65,13 +65,13 @@
     },
       "com.zengen.planfix": {
         "safe": 1.1,
-        "start_paywall": "PaywallViewToggleTrial",
+        "start_paywall": "PaywallViewListStyle",
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
-        "main_paywall": "PaywallViewStartTrial",
+        "main_paywall": "PaywallViewListStyle",
         "paywallColorScheme":"dark",
            "products": [
-            "plantfix_weekly",
+          
             "plantfix_yearly"
             
         ]
