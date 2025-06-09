@@ -64,7 +64,7 @@
         "show_ads_on_homepage_videos_tapped": true
     },
       "com.zengen.planfix": {
-        "safe": 1.05,
+        "safe": 1.1,
         "start_paywall": "PaywallViewToggleTrial",
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
