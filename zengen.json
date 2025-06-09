@@ -72,8 +72,8 @@
         "paywallColorScheme":"dark",
            "products": [
             "plantfix_weekly",
-            "plantfix_yearly",
-            "plantfix_lifetime"
+            "plantfix_yearly"
+            
         ]
       }
 }
