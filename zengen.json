@@ -80,6 +80,6 @@
      "com.zengen.bugidentifier": {
         "safe": 1.05,
         "start_paywall": "PaywallViewStartTrial",
-        "main_paywall": "PaywallViewStartTrial",
+        "main_paywall": "PaywallViewStartTrial"
      }
 }
