@@ -63,23 +63,30 @@
         "show_ads_on_homepage_photos_tapped": true,
         "show_ads_on_homepage_videos_tapped": true
     },
-      "com.zengen.planfix": {
+    "com.zengen.planfix": {
         "safe": 1.1,
         "start_paywall": "PaywallViewListStyle",
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
         "main_paywall": "PaywallViewListStyle",
-        "paywallColorScheme":"dark",
-           "products": [
-          
+        "paywallColorScheme": "dark",
+        "products": [
             "plantfix_yearly",
             "plantfix_yearly"
-            
         ]
-      },
-     "com.zengen.bugidentifier": {
+    },
+    "com.zengen.bugidentifier": {
         "safe": 1.05,
         "start_paywall": "PaywallViewStartTrial",
-        "main_paywall": "PaywallViewStartTrial"
-     }
+        "main_paywall": "PaywallViewStartTrial",
+        "showDiscountAfterPaywall": true,
+        "products": [
+            "bug_weekly",
+            "bug_yearly"
+        ],
+        "products_discount": [
+            "bug_weekly_discount",
+            "bug_yearly_discount"
+        ]
+    }
 }
