@@ -76,7 +76,7 @@
         ]
     },
     "com.zengen.bugidentifier": {
-        "safe": 1.05,
+        "safe": 1.1,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
         "showDiscountAfterPaywall": true,
