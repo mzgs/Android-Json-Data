@@ -12,7 +12,8 @@
             "fbsaver_yearly",
             "fbsaver_lifetime"
             
-        ]
+        ],
+        "remote_timeout":150
     }
     
   
