@@ -1,6 +1,7 @@
 {
     "com.mehmet.fbsaver": {
         "safe": 1.05,
+        "DAILY_LIMIT":15,
         "start_paywall": "PaywallViewCustomColor",
         "main_paywall": "PaywallViewCustomColor",
         "showDiscountAfterPaywall": false,
