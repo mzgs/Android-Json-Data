@@ -1,8 +1,8 @@
 {
     "com.mehmet.fbsaver": {
         "safe": 1.05,
-        "start_paywall": "PaywallViewStartTrial",
-        "main_paywall": "PaywallViewStartTrial",
+        "start_paywall": "PaywallViewCustomColor",
+        "main_paywall": "PaywallViewCustomColor",
         "showDiscountAfterPaywall": false,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
