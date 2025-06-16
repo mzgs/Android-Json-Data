@@ -80,6 +80,8 @@
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
         "showDiscountAfterPaywall": true,
+        "paywallTrialTitle": "Try Free",
+        "buttonTrialText": "Try Free",
         "products": [
             "bug_weekly",
             "bug_yearly"
