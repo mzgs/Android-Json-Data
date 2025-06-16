@@ -1,16 +1,17 @@
 {
     "com.mehmet.fbsaver": {
         "safe": 1.05,
-        "ALL_PREMIUM":true,
+        "start_paywall": "PaywallViewStartTrial",
+        "main_paywall": "PaywallViewStartTrial",
+        "showDiscountAfterPaywall": false,
+        "paywallTrialTitle": "Try Free",
+        "buttonTrialText": "Try Free",
         "products": [
-            "fbsaver_monthly",
-            "fbsaver_yearly"
+            "fbsaver_yearly",
+            "fbsaver_monthly"
+            
         ]
-    },
-     "com.mehmet.fbsave": {
-        "safe": 0.9
-       
-       
     }
+    
   
 }
