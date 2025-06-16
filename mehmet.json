@@ -6,7 +6,8 @@
         "showDiscountAfterPaywall": false,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
-        "paywall_image":"paywall2",
+        "paywall_start_image":"paywall2",
+        "paywall_main_image":"paywall2",
         "products": [
             "fbsaver_yearly",
             "fbsaver_monthly"
