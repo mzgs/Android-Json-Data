@@ -1,27 +1,29 @@
 {
     "com.mehmet.fbsaver": {
         "safe": 1.05,
-        "DAILY_LIMIT":15,
+        "DAILY_LIMIT": 15,
         "start_paywall": "PaywallViewCustomColor",
         "main_paywall": "PaywallViewCustomColor",
         "showDiscountAfterPaywall": false,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
-        "paywall_start_image":"paywall2",
-        "paywall_main_image":"paywall2",
+        "paywall_start_image": "paywall2",
+        "paywall_main_image": "paywall2",
         "products": [
             "fbsaver_yearly",
             "fbsaver_lifetime"
-            
         ],
-        "remote_timeout":200,
-        "show_ads_on_find":true,
-        "show_paywall_on_find":true,
-        "show_ads_on_history":true,
-        "show_paywall_on_history":true,
-        "show_ads_on_collections":true,
-        "show_paywall_on_collections":true
+        "remote_timeout": 200,
+        "show_ads_on_find": true,
+        "show_paywall_on_find": true,
+        "show_ads_on_history": true,
+        "show_paywall_on_history": true,
+        "show_ads_on_collections": true,
+        "show_paywall_on_collections": true,
+        "show_paywall_on_find_count": 1,
+        "interstitial_find": 1,
+        "interstitial_history": 1,
+        "show_paywall_on_collection_detail": true,
+        "interstitial_collection": 1
     }
-    
-  
 }
