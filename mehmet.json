@@ -14,7 +14,7 @@
             "fbsaver_lifetime"
             
         ],
-        "remote_timeout":150,
+        "remote_timeout":200,
         "show_ads_on_find":true,
         "show_paywall_on_find":true,
         "show_ads_on_history":true,
