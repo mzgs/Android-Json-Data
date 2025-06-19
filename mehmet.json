@@ -28,6 +28,7 @@
         "interstitial_find": 1,
         "interstitial_history": 1,
         "show_paywall_on_collection_detail": true,
-        "interstitial_collection": 1
+        "interstitial_collection": 1,
+        "allowed_domains": ["instagram.com","facebook.com","fb.watch"]
     }
 }
