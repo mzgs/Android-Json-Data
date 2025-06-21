@@ -11,9 +11,8 @@
         "paywall_start_image": "paywall2",
         "paywall_main_image": "paywall2",
         "products": [
-            "fbsaver_monthly",
-            "fbsaver_yearly"
-            
+            "fbsaver_yearly",
+            "fbsaver_monthly"
         ],
           "products_discount": [
             "fbsaver_six_months",
