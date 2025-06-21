@@ -4,14 +4,16 @@
         "DAILY_LIMIT": 15,
         "start_paywall": "PaywallViewCustomColor",
         "main_paywall": "PaywallViewCustomColor",
+        "discount_paywall":"PaywallViewDiscountList",
         "showDiscountAfterPaywall": false,
         "paywallTrialTitle":"Try for Free",
         "buttonTrialText": "Try for Free",
         "paywall_start_image": "paywall2",
         "paywall_main_image": "paywall2",
         "products": [
-            "fbsaver_yearly",
-            "fbsaver_monthly"
+            "fbsaver_monthly",
+            "fbsaver_yearly"
+            
         ],
           "products_discount": [
             "fbsaver_six_months",
