@@ -90,5 +90,12 @@
             "bug_weekly_discount",
             "bug_yearly_discount"
         ]
+    },
+    "com.zengen.oldphotorestore": {
+        "safe": 1.05,
+        "products": [
+            "oldphoto_weekly",
+            "oldphoto_yearly"
+        ]
     }
 }
