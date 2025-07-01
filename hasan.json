@@ -22,6 +22,7 @@
    "com.hasan.hasaniosinsaver": {
         "safe": 1.3,
         "DAILY_LIMIT":15,
+        "ALL_PREMIUM":true,
         "main_paywall":"PaywallViewStartTrial",
         "discount_paywall":"PaywallViewDiscounted",
         "show3DaysFreeProductTitle":true,
