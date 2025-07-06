@@ -1,7 +1,9 @@
 {
 
   "descargar.musica.mp3.gratis.music.downloader.free.download.allnew":{
-      "show_ads": true 
+    "safe":1.05,
+    "app_name":"new mp3 music",  
+    "show_ads": true
     
   }
 
