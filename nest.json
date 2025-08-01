@@ -3,7 +3,8 @@
   "descargar.musica.mp3.gratis.music.downloader.free.download.allnew":{
     "safe":0.9,
     "app_name":"new mp3 music",  
-    "show_ads": true
+    "show_ads": true,
+    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"]
     
   }
 
