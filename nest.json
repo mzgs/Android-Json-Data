@@ -8,6 +8,7 @@
     "interstital_download_interval":2,
     "interstital_player_back_interval":1,
     "interstital_search_interval":2,
+    "search_ad_type":"banner",
     "search_native_ad_position":2,
     "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY"]
     
