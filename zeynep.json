@@ -6,7 +6,7 @@
       "safe": 1.0,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
-        "showDiscountAfterPaywall": true,
+        "showDiscountAfterPaywall": false,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free"
 
