@@ -6,9 +6,17 @@
       "safe": 1.0,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
-        "showDiscountAfterPaywall": false,
+        "showDiscountAfterPaywall": true,
         "paywallTrialTitle": "Try Free",
-        "buttonTrialText": "Try Free"
+        "buttonTrialText": "Try Free",
+       "products": [
+            "chart_weekly",
+            "chart_yearly"
+        ],
+        "products_discount": [
+            "chart_weekly_discount",
+            "chart_yearly_discount"
+        ]
 
   }
   
