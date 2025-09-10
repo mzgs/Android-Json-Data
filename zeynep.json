@@ -3,7 +3,7 @@
    
     "com.zeynep.zeynepaichartdetector":
   {
-      "safe": 1.0,
+      "safe": 1.1,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
         "showDiscountAfterPaywall": true,
@@ -13,6 +13,7 @@
             "chart_weekly",
             "chart_yearly"
         ],
+     
         "products_discount": [
             "chart_weekly_discount",
             "chart_yearly_discount"
