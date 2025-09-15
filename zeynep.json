@@ -19,6 +19,9 @@
             "chart_yearly_discount"
         ]
 
-  }
+  },
+   "com.zeynep.zeynepinstans":{
+       "safe": 1.05
+   }
   
 }
