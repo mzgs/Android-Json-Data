@@ -22,6 +22,9 @@
   },
    "com.zeynep.zeynepinstans":{
        "safe": 1.05
+   },
+    "com.zeynep.zeynepinstant":{
+       "safe": 1.05
    }
   
 }
