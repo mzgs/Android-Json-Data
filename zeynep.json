@@ -24,7 +24,21 @@
        "safe": 1.05
    },
     "com.zeynep.zeynepinstant":{
-       "safe": 1.05
+         "safe": 1.1,
+        "start_paywall": "PaywallViewStartTrial",
+        "main_paywall": "PaywallViewStartTrial",
+        "showDiscountAfterPaywall": true,
+        "paywallTrialTitle": "Try Free",
+        "buttonTrialText": "Try Free",
+       "products": [
+            "instant_weekly",
+            "instant_yearly"
+        ],
+     
+        "products_discount": [
+            "instant_weekly_discount",
+            "instant_yearly_discount"
+        ]
    }
   
 }
