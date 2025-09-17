@@ -38,7 +38,10 @@
         "products_discount": [
             "instant_weekly_discount",
             "instant_yearly_discount"
-        ]
+        ],
+
+       "paywall_start_image": "paywall2",
+        "paywall_main_image": "paywall2"
    }
   
 }
