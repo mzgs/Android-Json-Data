@@ -14,7 +14,7 @@
     "interstitial_player_back":1,
     "interstitial_download_mp3":1,
     "interstitial_search_start":2,
-    "ad_in_search_results":"banner",
+    "bottom_ad_type":"mrec",
     "interstitial_on_player_open":1
     
     
