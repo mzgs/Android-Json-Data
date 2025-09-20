@@ -28,7 +28,7 @@
        "DAILY_LIMIT":15,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
-        "showDiscountAfterPaywall": false,
+        "showDiscountAfterPaywall": true,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
        "products": [
