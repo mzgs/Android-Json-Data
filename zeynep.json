@@ -46,10 +46,10 @@
         "remote_timeout": 200,
         "show_ads_on_find": true,
         "show_paywall_on_find": true,
-        "show_ads_on_history": true,
-        "show_paywall_on_history": true,
-        "show_ads_on_collections": true,
-        "show_paywall_on_collections": true,
+        "show_ads_on_history_view": true,
+        "show_paywall_on_history_view": true,
+        "show_ads_on_collections_view": true,
+        "show_paywall_on_collections_view": true,
        "allowed_domains": ["instagram.com","facebook.com","fb.watch"]
    }
   
