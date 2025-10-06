@@ -44,13 +44,13 @@
        "paywall_start_image": "paywall2",
         "paywall_main_image": "paywall2",
         "remote_timeout": 200,
-        "show_ads_on_find": false,
+        "show_ads_on_find": true,
         "show_paywall_on_find": true,
-        "show_ads_on_history_view": false,
+        "show_ads_on_history_view": true,
         "show_paywall_on_history_view": true,
-        "show_ads_on_collections_view": false,
+        "show_ads_on_collections_view": true,
         "show_paywall_on_collections_view": true,
-        "show_ads_on_save_detail": false,
+        "show_ads_on_save_detail": true,
         "show_paywall_on_save_detail": true,
        "allowed_domains": ["instagram.com","facebook.com","fb.watch"]
    }
