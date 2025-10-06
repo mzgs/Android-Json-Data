@@ -10,7 +10,7 @@
     "interstital_search_interval":2,
     "interstitial_tab_change_interval":5,
     "search_native_ad_position":3,
-    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY"],
+    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
     "interstitial_player_back":1,
     "interstitial_download_mp3":1,
     "interstitial_search_start":2,
