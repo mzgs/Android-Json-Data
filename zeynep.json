@@ -26,9 +26,9 @@
     "com.zeynep.zeynepinstant":{
          "safe": 1.7,
        "DAILY_LIMIT":15,
-        "start_paywall": "PaywallViewStartTrial",
-        "main_paywall": "PaywallViewStartTrial",
-        "showDiscountAfterPaywall": true,
+        "start_paywall": "PaywallViewCustomColor",
+        "main_paywall": "PaywallViewCustomColor",
+        "showDiscountAfterPaywall": false,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
        "products": [
