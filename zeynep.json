@@ -24,7 +24,7 @@
        "safe": 1.05
    },
     "com.zeynep.zeynepinstant":{
-         "safe": 1.7,
+         "safe": 1.6,
        "DAILY_LIMIT":15,
         "start_paywall": "PaywallViewCustomColor",
         "main_paywall": "PaywallViewCustomColor",
