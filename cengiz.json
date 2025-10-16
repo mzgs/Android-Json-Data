@@ -1,5 +1,6 @@
 {
     "com.cengiz.fbsaver":{
+        "LIMIT":20,
          "safe": 1.2
     
     }
