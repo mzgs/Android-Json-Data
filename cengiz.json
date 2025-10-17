@@ -4,7 +4,7 @@
         "safe": 1.3,
         "start_paywall": "PaywallViewToggleTrial",
         "main_paywall": "PaywallViewToggleTrial",
-        "showDiscountAfterPaywall": false,
+        "showDiscountAfterPaywall": true,
         "paywallTrialTitle": "Try Free",
         "buttonTrialText": "Try Free",
         "products": [
@@ -15,7 +15,7 @@
             "fbsaver_weekly_discount",
             "fbsaver_yearly_discount"
         ],
-        "paywall_start_image": "paywall3",
-        "paywall_main_image": "paywall3"
+        "paywall_start_image": "paywall2",
+        "paywall_main_image": "paywall2"
     }
 }
