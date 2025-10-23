@@ -3,7 +3,7 @@
    
     "com.zeynep.zeynepaichartdetector":
   {
-      "safe": 1.0,
+      "safe": 1.1,
         "start_paywall": "PaywallViewStartTrial",
         "main_paywall": "PaywallViewStartTrial",
         "showDiscountAfterPaywall": false,
@@ -24,7 +24,7 @@
        "safe": 1.05
    },
     "com.zeynep.zeynepinstant":{
-         "safe": 1.6,
+         "safe": 1.7,
        "DAILY_LIMIT":15,
         "start_paywall": "PaywallViewCustomColor",
         "main_paywall": "PaywallViewCustomColor",
