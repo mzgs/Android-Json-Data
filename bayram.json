@@ -1,4 +1,10 @@
 {
+
+    "com.bayram.repost":{
+        "safe":2.0
+
+    },
+    
     "6472447606": {
         "app": "Repost",
         "DAILY_LIMIT": 20,
