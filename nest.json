@@ -8,7 +8,7 @@
     "show_ads": true,
     "interstital_download_interval":2,
     "interstital_player_back_interval":1,
-    "interstital_search_interval":2,
+    "interstital_search_interval":1,
     "interstitial_tab_change_interval":5,
     "search_native_ad_position":3,
     "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
