@@ -2,10 +2,24 @@
 
     "com.bayram.repost":{
         "safe":2.3,
+        "DAILY_LIMIT":25,
         "products2": [
             "repost_weekly_discount_low",
+            "repost_yearly"
+        ],
+         "products2_discount": [
+            "repost_weekly_discount_low",
             "repost_yearly_discount"
-        ]
+        ],
+
+       "paywall_start_image": "paywall2",
+        "paywall_main_image": "paywall2",
+         "start_paywall": "PaywallViewStartTrial",
+        "main_paywall": "PaywallViewStartTrial",
+         "discount_paywall":"PaywallViewDiscountList",
+        "showDiscountAfterPaywall": true,
+        "paywallTrialTitle":"Try Free",
+        "buttonTrialText": "Try Free"
 
     },
     
