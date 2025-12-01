@@ -1,7 +1,11 @@
 {
 
     "com.bayram.repost":{
-        "safe":2.1
+        "safe":2.2,
+        "products2": [
+            "repost_weekly_discount_low",
+            "repost_yearly_discount"
+        ]
 
     },
     
