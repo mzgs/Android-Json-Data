@@ -4,7 +4,7 @@
         "safe":2.3,
         "DAILY_LIMIT":25,
         "products2": [
-            "repost_weekly_discount_low",
+            "repost_weekly",
             "repost_yearly"
         ],
          "products2_discount": [
