@@ -1,7 +1,7 @@
 {
 
     "com.bayram.repost":{
-        "safe":2.3,
+        "safe":2.4,
         "DAILY_LIMIT":25,
         "products2": [
             "repost_weekly",
