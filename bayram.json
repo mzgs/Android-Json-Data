@@ -26,7 +26,7 @@
         "show_ads_on_collections": true,
         "show_paywall_on_collections": true,
         "show_ads_on_save_detail": true,
-        "show_paywall_on_save_detail": true,
+        "show_paywall_on_save_detail": false,
         "show_trial_info_above_button":true,
         "show_trial_info_below_title":false
 
