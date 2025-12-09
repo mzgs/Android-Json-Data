@@ -11,8 +11,8 @@
             "repost_weekly_discount_low",
             "repost_yearly_discount"
         ],
-        "safepaywall":false,
-        "safeonboarding":false,
+        "safepaywall":true,
+        "safeonboarding":true,
        "paywall_start_image": "paywall2",
         "paywall_main_image": "paywall2",
          "start_paywall": "PaywallViewToggleTrial",
