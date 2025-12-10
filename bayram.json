@@ -13,6 +13,7 @@
         ],
         "safepaywall":true,
         "safeonboarding":true,
+        "show_onboarding":false,
        "paywall_start_image": "paywall2",
         "paywall_main_image": "paywall2",
          "start_paywall": "PaywallViewToggleTrial",
