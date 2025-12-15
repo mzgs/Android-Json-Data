@@ -1,0 +1,32 @@
+{
+
+  "com.ismail.mp3musicdownload":{
+    "safe":0.9,
+    "app_name":"mp3 ismail",  
+    "only_free_music":false,
+    "allowed_countries":["ZA"],
+    "show_ads": true,
+    "interstital_download_interval":2,
+    "interstital_player_back_interval":1,
+    "interstital_search_interval":1,
+    "interstitial_tab_change_interval":5,
+    "search_native_ad_position":3,
+    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
+    "interstitial_player_back":1,
+    "interstitial_download_mp3":1,
+    "interstitial_search_start":2,
+    "bottom_ad_type":"banner",
+    "interstitial_on_player_open":2
+    
+    
+    
+  },
+
+  "com.example.mzgsandroidhelper":{ 
+    "app_name":"android helper example app from remote config",  
+  "interstital_download_interval":2,
+      "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
+      "show_ads": true,
+    "safe":0.9
+  
+  }
