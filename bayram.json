@@ -2,7 +2,7 @@
 
     "com.bayram.repost":{
         "safe":2.4,
-        "DAILY_LIMIT":9,
+        "DAILY_LIMIT":15,
         "products2": [
             "repost_weekly",
             "repost_yearly"
@@ -11,7 +11,7 @@
             "repost_weekly_discount_low",
             "repost_yearly_discount"
         ],
-        "safepaywall":false,
+        "safepaywall":true,
         "safeonboarding":true,
         "show_onboarding":false,
        "paywall_start_image": "paywall2",
