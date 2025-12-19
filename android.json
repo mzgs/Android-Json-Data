@@ -14,9 +14,10 @@
     "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
     "interstitial_player_back":2,
     "interstitial_download_mp3":2,
-    "interstitial_search_start":2,
+    "interstitial_search_start":1,
     "bottom_ad_type":"banner",
-    "interstitial_on_player_open":2
+    "interstitial_on_player_open":2,
+    "load_applovin_max_after_admob_init":true
     
     
     
