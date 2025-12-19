@@ -16,7 +16,8 @@
     "interstitial_download_mp3":1,
     "interstitial_search_start":2,
     "bottom_ad_type":"banner",
-    "interstitial_on_player_open":2
+    "interstitial_on_player_open":2,
+    "load_applovin_max_after_admob_init":true
     
     
     
