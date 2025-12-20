@@ -17,6 +17,7 @@
     "interstitial_search_start":2,
     "bottom_ad_type":"banner",
     "interstitial_on_player_open":2,
+    "splash_time":11000,
     "load_applovin_max_after_admob_init":true
     
     
