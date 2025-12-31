@@ -30,5 +30,6 @@
       "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
       "show_ads": true,
     "safe":0.9
+  }
   
   }
