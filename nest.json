@@ -6,21 +6,19 @@
     "only_free_music":true,
     "allowed_countries":["ZA"],
     "show_ads": true,
-    "interstital_download_interval":2,
-    "interstital_player_back_interval":1,
-    "interstital_search_interval":1,
-    "interstitial_tab_change_interval":5,
-    "search_native_ad_position":3,
+
     "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
-    "interstitial_player_back":1,
-    "interstitial_download_mp3":1,
-    "interstitial_search_start":2,
-    "bottom_ad_type":"banner",
-    "interstitial_on_player_open":2,
     "splash_time":11000,
-    "load_applovin_max_after_admob_init":false
+    "load_applovin_max_after_admob_init":true,
+    "search_native_ad_position":3,
+     "interstitial_download":1,
+     "interstitial_on_tab_change":10,
+     "interstitial_search":2,
+    "interstitial_on_player_open":2,
+     "interstitial_on_play_back":2,
+    "bottom_ad_type":"banner"
     
-    
+ 
     
   },
 
