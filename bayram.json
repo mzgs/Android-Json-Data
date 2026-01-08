@@ -1,6 +1,7 @@
 {
 
     "com.bayram.repost":{
+        "ALL_PREMIUM":true,
         "safe":2.4,
         "DAILY_LIMIT":250,
         "products2": [
