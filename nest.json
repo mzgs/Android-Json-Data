@@ -8,7 +8,7 @@
     "show_ads": true,
 
     "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
-    "splash_time":11000,
+    "splash_time":12000,
     "load_applovin_max_after_admob_init":true,
     "search_native_ad_position":3,
      "interstitial_download":1,
