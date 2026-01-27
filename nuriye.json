@@ -16,6 +16,8 @@
     ],
     "safe": 1.3,
     "safeonboarding": true,
+     "paywallTrialTitle":"Try Free",
+      "buttonTrialText": "Try Free",
     "safepaywall": true,
     "showDiscountAfterPaywall": true,
     "show_ads_on_collections": true,
