@@ -28,6 +28,7 @@
     "show_paywall_on_collections": true,
     "show_paywall_on_find": true,
     "show_paywall_on_history": true,
-    "start_paywall": "PaywallViewToggleTrial"
+    "start_paywall": "PaywallViewToggleTrial",
+    "paywallColorScheme":"dark"
   }
 }
