@@ -24,7 +24,7 @@
     "show_ads_on_find": true,
     "show_ads_on_history": true,
     "show_ads_on_save": false,
-    "show_onboarding": true,
+    "show_onboarding": false,
     "show_paywall_on_collections": true,
     "show_paywall_on_find": true,
     "show_paywall_on_history": true,
