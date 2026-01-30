@@ -16,7 +16,7 @@
     ],
     "safe": 1.4,
     "safeonboarding": true,
-     "paywallTrialTitle":"Unlock Premium",
+     "paywallTrialTitle":"Try Free",
       "buttonTrialText": "Try Free",
     "safepaywall": true,
     "showDiscountAfterPaywall": true,
