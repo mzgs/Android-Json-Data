@@ -1,7 +1,7 @@
 {
   "com.nuriye.nuriyeiosinsaver": {
     "DAILY_LIMIT": 20,
-    "ads_save": "reward",
+ 
     "discount_paywall": "PaywallViewDiscountList",
     "main_paywall": "PaywallViewCustomColor",
     "paywall_main_image": "paywall2",
@@ -23,7 +23,7 @@
     "show_ads_on_collections": true,
     "show_ads_on_find": true,
     "show_ads_on_history": true,
-    "show_ads_on_save": false,
+    "show_ads_on_save": true,
     "show_onboarding": true,
     "show_paywall_on_collections": true,
     "show_paywall_on_find": true,
