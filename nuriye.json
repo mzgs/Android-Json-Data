@@ -3,7 +3,7 @@
     "DAILY_LIMIT": 20,
  
     "discount_paywall": "PaywallViewDiscountList",
-    "main_paywall": "PaywallViewCustomColor",
+    "main_paywall": "PaywallViewToggleTrial",
     "paywall_main_image": "paywall2",
     "paywall_start_image": "paywall2",
     "products": [
@@ -28,7 +28,7 @@
     "show_paywall_on_collections": true,
     "show_paywall_on_find": true,
     "show_paywall_on_history": true,
-    "start_paywall": "PaywallViewCustomColor",
+    "start_paywall": "PaywallViewToggleTrial",
     "paywallColorScheme":"auto"
   }
 }
