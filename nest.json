@@ -21,6 +21,9 @@
  
     
   },
+  "com.mentapp.videodownloader":{
+    "show_rewarded_on_not_allowed_visit":false
+  },
 
   "com.example.mzgsandroidhelper":{ 
     "app_name":"android helper example app from remote config",  
