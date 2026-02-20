@@ -1,6 +1,6 @@
 {
   "com.nuriye.nuriyeiosinsaver": {
-    "DAILY_LIMIT": 20,
+    "DAILY_LIMIT": 10,
  
     "discount_paywall": "PaywallViewDiscountList",
     "main_paywall": "PaywallViewCustomColor",
