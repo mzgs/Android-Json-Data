@@ -1,5 +1,8 @@
 {
   "com.zeynep2.zeynep2iosimagetopdf":{
     "safe":1.1
+  },
+  "com.zeynep2.zeynep2iostiksaver":{
+    "safe":1.05
   }
 }
