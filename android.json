@@ -1,5 +1,9 @@
 {
 
+  "com.mzgs.cleaner.cleanup.phone.storage.clean":{
+    "interstitial_tab_change":3
+  },
+
   "com.ismail.mp3musicdownload":{
     "safe":0.9,
     "app_name":"mp3 ismail",  
