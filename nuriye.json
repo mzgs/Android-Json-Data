@@ -7,8 +7,9 @@
     "paywall_main_image": "paywall2",
     "paywall_start_image": "paywall2",
     "products": [
-      "insaver_weekly",
-      "insaver_yearly"
+       "insaver_yearly",
+      "insaver_weekly"
+     
     ],
     "products_discount": [
       "insaver_weekly_discount",
