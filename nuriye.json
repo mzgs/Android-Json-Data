@@ -8,8 +8,8 @@
     "paywall_start_image": "paywall2",
     "products": [
      
-       "insaver_weekly_discount",
-      "insaver_yearly_discount",
+       "insaver_weekly",
+      "insaver_yearly",
       "insaver_lifetime"
      
     ],
@@ -22,7 +22,7 @@
      "paywallTrialTitle":"Try Free",
       "buttonTrialText": "Try Free",
     "safepaywall": true,
-    "showDiscountAfterPaywall": false,
+    "showDiscountAfterPaywall": true,
     "show_ads_on_collections": true,
     "show_ads_on_find": false,
     "show_ads_on_history": true,
