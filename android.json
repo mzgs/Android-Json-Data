@@ -28,6 +28,11 @@
     
   },
 
+  "com.mzgs.cleaner.cleanup.phone.storage.clean":{
+     "splash_time":16000
+    
+  },
+
   "com.example.mzgsandroidhelper":{ 
     "app_name":"android helper example app from remote config",  
   "interstital_download_interval":2,
