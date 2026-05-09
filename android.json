@@ -34,7 +34,9 @@
   },
 
     "com.mentapp.videodownloader":{
-    "show_rewarded_on_not_allowed_visit":true
+    "show_rewarded_on_not_allowed_visit":true,
+      "download_started_interstitial_cycle":1,
+      "download_button_click_interstitial_cycle":1
   },
 
   "com.example.mzgsandroidhelper":{ 
