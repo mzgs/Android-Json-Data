@@ -22,6 +22,7 @@
     ],
     "safe": 1.4,
     "safeonboarding": true,
+      "show_onboarding": false,
      "paywallTrialTitle":"Unlock Premium",
       "buttonTrialText": "Continue",
     "safepaywall": true,
