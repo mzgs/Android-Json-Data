@@ -2,7 +2,8 @@
 
   "com.mzgs.cleaner.cleanup.phone.storage.clean":{
     "interstitial_tab_change":3,
-    "interstitial_tool_open":1
+    "interstitial_tool_open":1,
+    "splash_time":12000
   },
 
   "com.ismail.mp3musicdownload":{
@@ -29,10 +30,7 @@
     
   },
 
-  "com.mzgs.cleaner.cleanup.phone.storage.clean":{
-     "splash_time":12000
-    
-  },
+ 
 
     "com.mentapp.videodownloader":{
     "show_rewarded_on_not_allowed_visit":true,
