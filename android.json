@@ -1,7 +1,8 @@
 {
 
   "com.mzgs.cleaner.cleanup.phone.storage.clean":{
-    "interstitial_tab_change":3
+    "interstitial_tab_change":3,
+    "interstitial_tool_open":1
   },
 
   "com.ismail.mp3musicdownload":{
