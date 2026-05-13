@@ -31,6 +31,28 @@
     
   },
 
+
+    "descargar.musica.mp3.gratis.music.downloader.free.download.allnew":{
+    "safe":0.9,
+    "app_name":"mp3 2025",  
+    "only_free_music":true,
+    "allowed_countries":["ZA"],
+    "show_ads": true,
+
+    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "TR", "VN", "RU", "SG", "MO", "TW", "PY","BR"],
+    "splash_time":11000,
+    "load_applovin_max_after_admob_init":true,
+    "search_native_ad_position":3,
+     "interstitial_download":1,
+     "interstitial_on_tab_change":10,
+     "interstitial_search":2,
+    "interstitial_on_player_open":2,
+     "interstitial_on_play_back":2,
+    "bottom_ad_type":"banner"
+    
+ 
+    
+  },
  
 
     "com.mentapp.videodownloader":{
