@@ -61,6 +61,12 @@
       "download_button_click_interstitial_cycle":1
   },
 
+     "com.mentapp.all.video.downloader.browser.player":{
+    "show_rewarded_on_not_allowed_visit":true,
+      "download_started_interstitial_cycle":1,
+      "download_button_click_interstitial_cycle":1
+  },
+
   "com.example.mzgsandroidhelper":{ 
     "app_name":"android helper example app from remote config",  
   "interstital_download_interval":2,
