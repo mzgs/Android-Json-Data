@@ -62,7 +62,7 @@
   },
 
      "com.mentapp.all.video.downloader.browser.player":{
-    "show_rewarded_on_not_allowed_visit":true,
+    "show_rewarded_on_not_allowed_visit":false,
       "download_started_interstitial_cycle":1,
       "download_button_click_interstitial_cycle":1
   },
