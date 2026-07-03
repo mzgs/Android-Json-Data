@@ -21,7 +21,7 @@
       "tik_weekly_discount",
       "tik_yearly_discount"
     ],
-    "safe": 1.4,
+    "safe": 1.5,
     "safeonboarding": true,
       "show_onboarding": true,
      "paywallTrialTitle":"Try Free",
