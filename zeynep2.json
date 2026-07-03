@@ -27,7 +27,7 @@
      "paywallTrialTitle":"Try Free",
       "buttonTrialText": "Try Free",
     "safepaywall": true,
-    "showDiscountAfterPaywall": false,
+    "showDiscountAfterPaywall": true,
     "show_ads_on_collections": true,
     "show_ads_on_find": false,
     "show_ads_on_history": true,
