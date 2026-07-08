@@ -4,7 +4,7 @@
   },
   "com.zeynep2.zeynep2iostiksaver":{
    
-    "showPostPurchase":true,
+    "showPostPurchase":false,
 
      "DAILY_LIMIT": 25,
  
