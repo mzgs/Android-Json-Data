@@ -48,7 +48,8 @@
     "interstitial_on_player_open":2,
      "interstitial_on_play_back":2,
     "bottom_ad_type":"banner",
-    "useAppOpenFallbackDefault":false
+    "useAppOpenFallbackDefault":false,
+      "show_mrec":false
     
  
     
