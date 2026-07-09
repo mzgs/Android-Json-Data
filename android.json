@@ -42,7 +42,7 @@
     "app_open_fallback_after_splash":false,
     "load_applovin_max_after_admob_init":true,
     "search_native_ad_position":3,
-     "interstitial_download":1,
+     "interstitial_download":2,
      "interstitial_on_tab_change":10,
      "interstitial_search":2,
     "interstitial_on_player_open":2,
