@@ -49,7 +49,7 @@
      "interstitial_on_play_back":2,
     "bottom_ad_type":"banner",
     "useAppOpenFallbackDefault":false,
-      "show_mrec":false
+      "show_mrec":true
     
  
     
