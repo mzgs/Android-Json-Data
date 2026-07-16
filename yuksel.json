@@ -4,7 +4,7 @@
     "discount_paywall": "PaywallViewDiscountList",
     "start_paywall": "PaywallViewCustomColor",
     "main_paywall": "PaywallViewCustomColor",
-    "products": [
+    "products22": [
       "expense_weekly_weekly",
       "expense_weekly_yearly",
       "expense_weekly_lifetime4"
