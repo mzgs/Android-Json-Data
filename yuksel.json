@@ -1,6 +1,6 @@
 {
   "com.yuksel.yukselexpensetracker": {
-    "showPostPurchase": false,
+    "showPostPurchase": true,
     "discount_paywall": "PaywallViewDiscountList",
     "start_paywall": "PaywallViewCustomColor",
     "main_paywall": "PaywallViewCustomColor",
@@ -9,7 +9,7 @@
       "expense_weekly_yearly",
       "expense_weekly_lifetime4"
     ],
-    "safe": 1,
+    "safe": 1.1,
     "paywallTrialTitle": "Try Free",
     "buttonTrialText": "Try Free"
   }
