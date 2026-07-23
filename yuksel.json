@@ -4,11 +4,16 @@
     "discount_paywall": "PaywallViewDiscountList",
     "start_paywall": "PaywallViewCustomColor",
     "main_paywall": "PaywallViewCustomColor",
-    "products22": [
+    "products": [
       "expense_weekly_weekly",
       "expense_weekly_yearly",
       "expense_weekly_lifetime4"
     ],
+    "products_discount": [
+      "card_weekly_discount",
+      "card_yearly_discount"
+    ],
+    "showDiscountAfterPaywall": true,
     "safe": 1.2,
     "paywallTrialTitle": "Try Free",
     "buttonTrialText": "Try Free"
