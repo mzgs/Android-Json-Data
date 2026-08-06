@@ -5,9 +5,8 @@
   "com.zeynep2.zeynep2iostiksaver":{
    
     "showPostPurchase":true,
-
      "DAILY_LIMIT": 25,
- 
+    "ALL_PREMIUM":true,
     "discount_paywall": "PaywallViewDiscountList",
     "main_paywall": "PaywallViewCustomColor",
     "paywall_main_image": "paywall2",
