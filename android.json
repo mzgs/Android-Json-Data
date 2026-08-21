@@ -43,7 +43,7 @@
     "load_applovin_max_after_admob_init":true,
     "search_native_ad_position":3,
      "interstitial_download":2,
-     "interstitial_on_tab_change":10,
+     "interstitial_on_tab_change":20,
      "interstitial_search":2,
     "interstitial_on_player_open":2,
      "interstitial_on_play_back":2,
