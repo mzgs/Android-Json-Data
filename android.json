@@ -50,7 +50,7 @@
     "bottom_ad_type":"banner",
     "useAppOpenFallbackDefault":false,
       "show_mrec":true,
-      "show_banner_instead_of_mrec":true
+      "show_banner_instead_of_mrec":false
     
  
     
