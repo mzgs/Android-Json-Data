@@ -51,7 +51,7 @@
     "useAppOpenFallbackDefault":false,
     "show_mrec":true,
     "show_banner_instead_of_mrec":false,
-    "youtube_player_client":"default,android"
+    "youtube_player_client":"default,mweb"
     
     
  
