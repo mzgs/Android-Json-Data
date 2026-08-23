@@ -26,7 +26,8 @@
     "interstitial_on_player_open":2,
     "splash_time":12000,
     "load_applovin_max_after_admob_init":true,
-     "useAppOpenFallbackDefault":false
+     "useAppOpenFallbackDefault":false,
+      "youtube_player_client":"default,android"
     
   },
 
