@@ -7,7 +7,7 @@
     "splash_time":12000
   },
 
-  "com.ismail.mp3musicdownload":{
+  "com.ismail.mp3.music.download.downloader":{
     "safe":0.9,
     "app_name":"mp3 ismail",  
     "only_free_music":false,
