@@ -18,7 +18,14 @@
     "interstital_search_interval":1,
     "interstitial_tab_change_interval":5,
     "search_native_ad_position":3,
-    "restricted_countries": ["UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK", "VN", "RU", "SG", "MO", "TW", "PY","BR","BE"],
+    "restricted_countries": [
+      "UK", "US", "GB", "CN", "MX", "JP", "KR", "AR", "HK", "IN", "PK",
+      "VN", "RU", "SG", "MO", "TW", "PY", "BR", "BE",
+      "AU", "BD", "BY", "BJ", "DO", "DM", "EC", "MA", "FR", "GH",
+      "IQ", "CM", "CA", "KZ", "CG", "CR", "CY", "LA", "LY", "LB",
+      "SN", "LK", "TZ", "TN", "UG", "UA", "UY", "VE", "YE", "ZM",
+      "ZW", "UZ", "JO", "ES", "IT", "PT", "CH"
+    ],
     "interstitial_player_back":3,
     "interstitial_download_mp3":2,
     "interstitial_search_start":2,
