@@ -6,7 +6,7 @@
    
     "showPostPurchase":true,
      "DAILY_LIMIT": 25,
-    "ALL_PREMIUM":true,
+    "ALL_PREMIUM":false,
     "discount_paywall": "PaywallViewDiscountList",
     "main_paywall": "PaywallViewCustomColor",
     "paywall_main_image": "paywall2",
