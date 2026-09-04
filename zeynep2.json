@@ -5,7 +5,7 @@
   "com.zeynep2.zeynep2iostiksaver":{
    
     "showPostPurchase":true,
-     "DAILY_LIMIT": 25,
+     "DAILY_LIMIT": 10,
     "ALL_PREMIUM":false,
     "discount_paywall": "PaywallViewDiscountList",
     "main_paywall": "PaywallViewCustomColor",
@@ -20,7 +20,7 @@
       "tik_weekly_discount",
       "tik_yearly_discount"
     ],
-    "safe": 1.5,
+    "safe": 1.6,
     "safeonboarding": true,
       "show_onboarding": false,
      "paywallTrialTitle":"Try Free",
