@@ -21,6 +21,7 @@
       "tik_yearly_discount"
     ],
     "safe": 1.6,
+    "home_title":"TikSaver",
     "safeonboarding": true,
       "show_onboarding": false,
      "paywallTrialTitle":"Try Free",
