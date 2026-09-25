@@ -1,5 +1,10 @@
 {
 
+  "com.soundcontroller.loudspeaker.volume.manager.booster.android":{
+    "open_media_interstitial_cycle":2,
+    "player_boost_interstitial_cycle":2
+  },
+
   "com.mzgs.cleaner.cleanup.phone.storage.clean":{
     "interstitial_tab_change":3,
     "interstitial_tool_open":1,
