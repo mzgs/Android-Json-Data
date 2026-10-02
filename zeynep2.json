@@ -5,6 +5,8 @@
   "com.zeynep2.zeynep2iostiksaver":{
    
     "showPostPurchase":true,
+    "home_title":"Tiktok Instagram Saver",
+    "home_subtitle":"Tiktok - Instagram - Facebook Url",
      "DAILY_LIMIT": 10,
     "ALL_PREMIUM":false,
     "discount_paywall": "PaywallViewDiscountList",
@@ -21,7 +23,6 @@
       "tik_yearly_discount"
     ],
     "safe": 1.6,
-    "home_title":"TikSaver",
     "safeonboarding": true,
       "show_onboarding": false,
      "paywallTrialTitle":"Try Free",
