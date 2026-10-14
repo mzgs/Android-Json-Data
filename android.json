@@ -1,5 +1,12 @@
 {
 
+
+   "com.mentapp.videoeditor":{
+    "interstitial_cycle_editor_open":1
+    
+  },
+  
+  
   "com.soundcontroller.loudspeaker.volume.manager.booster.android":{
     "open_media_interstitial_cycle":1,
     "player_boost_interstitial_cycle":2
