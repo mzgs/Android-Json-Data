@@ -43,7 +43,7 @@
      "interstitial_yt_download":1,
      "interstitial_yt_play":2,
      "interstitial_on_player_open":2,
-     "interstitial_yt_play_back":2,
+     "interstitial_yt_play_back":1,
     "interstitial_search_start":2,
     "bottom_ad_type":"banner",
     "splash_time":12000,
