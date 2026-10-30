@@ -2,8 +2,13 @@
 
 
    "com.mentapp.videoeditor":{
-    "interstitial_cycle_editor_open":2
     
+  "interstitial_cycle_editor_open": 2,
+  "interstitial_cycle_editor_close": 1,
+  "interstitial_cycle_export_start": 1,
+  "interstitial_cycle_video_exported": 1,
+  "interstitial_cycle_export_done": 1
+  
   },
   
   
