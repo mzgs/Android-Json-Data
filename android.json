@@ -44,7 +44,7 @@
       "ZW", "UZ", "JO", "ES", "IT", "PT", "CH"
     ],
     "interstitial_player_back":3,
-    "interstitial_download_mp3":2,
+    "interstitial_download_mp3":1,
      "interstitial_yt_download":1,
      "interstitial_yt_play":2,
      "interstitial_on_player_open":2,
