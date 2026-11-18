@@ -18,6 +18,7 @@
       "insaver_yearly_discount"
     ],
     "safe": 1.4,
+    "showNoPaymentNow":true,
     "safeonboarding": true,
      "paywallTrialTitle":"Try Free",
       "buttonTrialText": "Try Free",
